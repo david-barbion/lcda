@@ -1,22 +1,23 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+title: Le Crochet d'Argent
+email: contact@lecrochetdargent.fr
+description: Réalisations au tricot et crochet
+baseurl: ""
+url: "http://localhost:4000"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  name     : 'Hélène'
+  email    : contact@lecrochetdargent.fr
+  url      : http://www.lecrochetdargent.fr
+  facebook : http://facebook.com/Le-crochet-dargent-456929781182767
+  twitter  : http://twitter.com/crochetdargent
+  mastodon : https://framapiaf.org/@crochetdargent
 
 github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+disqus_shortname: "le-crochet-dargent"
+#google_analytics: UA-52446115-1
 
-paginate: 2
+paginate: 5
 comments: true
 paginate_path: "/page/:num"
 
@@ -27,3 +28,65 @@ sass:
 # Build settings
 markdown  : kramdown
 permalink : /:title/
+excerpt_separator: "<!--more-->"
+gems: [jekyll-paginate, jekyll-feed, jekyll-responsive-image]
+
+defaults:
+  - scope:
+      path: "images/assets"
+    values:
+      image: true
+
+responsive_image:
+  # [Required]
+  # Path to the image template.
+  template: _includes/responsive-image.html
+
+  # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 90
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+    - width: 160  # [Required] How wide the resized image will be.
+      quality: 70 # [Optional] Overrides default_quality for this size.
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 800
+      quality: 90
+
+  # [Optional, Default: false]
+  # Rotate resized images depending on their EXIF rotation attribute. Useful for
+  # working with JPGs directly from digital cameras and smartphones
+  auto_rotate: false
+
+  # [Optional, Default: assets]
+  # The base directory where assets are stored. This is used to determine the
+  # `dirname` value in `output_path_format` below.
+  base_path: images/assets
+
+  # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
+  # The template used when generating filenames for resized images. Must be a
+  # relative path.
+  #
+  # Parameters available are:
+  #   %{dirname}     Directory of the file relative to `base_path` (assets/sub/dir/some-file.jpg => sub/dir)
+  #   %{basename}    Basename of the file (assets/some-file.jpg => some-file.jpg)
+  #   %{filename}    Basename without the extension (assets/some-file.jpg => some-file)
+  #   %{extension}   Extension of the file (assets/some-file.jpg => jpg)
+  #   %{width}       Width of the resized image
+  #   %{height}      Height of the resized image
+  #
+  output_path_format: images/assets/%{dirname}/%{filename}-%{width}.%{extension}
+
+  # [Optional, Default: []]
+  # By default, only images referenced by the responsive_image and responsive_image_block
+  # tags are resized. Here you can set a list of paths or path globs to resize other
+  # images. This is useful for resizing images which will be referenced from stylesheets.
+  #  extra_images:
+  #  - images/assets/*/*
+
+
+iis_slider_array: []

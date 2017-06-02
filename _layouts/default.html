@@ -2,18 +2,32 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="fr-fr">
   <head>
     {% include head.html %}
 
     <meta name="robots" content="noindex"> <!--=====  Please remove it ! ! !  ======-->
     <meta name="googlebot" content="noindex"> <!--=====  Please remove it ! ! !  ======-->
   </head>
+
   <body class="{{ page.slug }}">
     <main class="main">
       {% include header.html %}
       {{ content }}
       {% include footer.html %}
     </main>
+<!-- Slider -->
+<script src="{{ "/bower_components/ideal-image-slider/ideal-image-slider.min.js" | relative_url }}"></script>
+<script src="{{ "/bower_components/ideal-image-slider/extensions/captions/iis-captions.js" | relative_url }}"></script>
+<!-- Sliders on pages -->
+{% for script in page.iis_slider_scripts %}
+  {{ script }}
+{% endfor %}
+<!-- Sliders on indexes -->
+{% for post in paginator.posts %}
+  {% for script in post.iis_slider_scripts %}
+    {{ script }}
+  {% endfor %}
+{% endfor %}
   </body>
 </html>
