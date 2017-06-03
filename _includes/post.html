@@ -8,9 +8,12 @@
   </header>
   <div class="post-content">
     {% assign featured = post.asset_path | prepend: '/images/assets/' | append: '/featured.jpg' %}
+    {% assign image_path = post.asset_path | prepend: 'images/assets/' | append: '/featured.jpg' %}
     {% for static_file in site.static_files %}
       {% if static_file.path == featured %}
-        <img src="{{ static_file.path | prepend: site.baseurl }}">
+        {% responsive_image_block %}
+            path: {{ image_path }}
+        {% endresponsive_image_block %}
       {% endif %}
     {% endfor %}
     {{ post.content | strip_html | truncatewords: 30 }} <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Lire plus &raquo;</a>
