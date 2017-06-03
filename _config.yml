@@ -8,14 +8,14 @@ url: "http://localhost:4000"
 author:
   name     : 'Hélène'
   email    : contact@lecrochetdargent.fr
-  url      : http://www.lecrochetdargent.fr
+  url      : https://www.lecrochetdargent.fr
   facebook : http://facebook.com/Le-crochet-dargent-456929781182767
   twitter  : http://twitter.com/crochetdargent
   mastodon : https://framapiaf.org/@crochetdargent
 
 github: https://github.com/nandomoreirame/zetsu
 disqus_shortname: "le-crochet-dargent"
-#google_analytics: UA-52446115-1
+google_analytics: UA-100414652-1
 
 paginate: 5
 comments: true
