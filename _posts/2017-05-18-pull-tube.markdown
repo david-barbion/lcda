@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Pull tube"
+date:   2017-05-18 15:47:00
+categories: tricot
+comments: true
+asset_path: 'pull-tube'
+---
+
+Les beaux jours arrivent, et on ressort les cotons pour plein de nouveautés!
+
+Je vous présente **Aquasun**, un petit pull "tube" en cotons et polyacryl, tout doux, tout léger, en taille 3 ans!
+
+Couleurs vives et fraîches, à la fois solaire et aquatique, ce petit pull aux manches 3/4 et contrastées peut être porté à-même la peau!
+
+Les explications sont libres, ci-dessous.
+
+
+{% slider 800 %}
+{% responsive_image path: images/assets/pull-tube/IMG_20170518_094219023-annotate.jpg %}
+{% responsive_image path: images/assets/pull-tube/IMG_20170518_094317784-annotate.jpg %}
+{% endslider %}
+
+### Explications
+
+#### Fournitures:
+* Aiguilles numéro 5,
+* Rico Creative Sport jaune 3 pelotes,
+* Cheval Blanc Sunny Turquoise 3 pelotes,
+* Aiguille à laine.
+
+#### Points employés:
+* Point mousse
+* Jersey
+
+#### Diminutions
+Tricoter 2 m. ensemble pour les diminutions du côté gauche de l’encolure.
+
+Faire un surjet simple pour les diminutions du côté droit de l’encolure.
+
+#### Réalisation
+
+##### Dos
+
+* Monter 55 mailles avec un fil de chaque couleur.
+* Faire 6 rangs de point mousse
+* Continuer en jersey
+* A 73 rangs, rabattre les 27 mailles centrales et continuer chaque côté séparément (14 mailles de chaque côté).
+* A 75 rangs, rabattre les épaules.
+
+##### Devant
+
+* Monter 55 mailles avec un fil de chaque couleur.
+* Faire 6 rangs de point mousse
+* Continuer en jersey
+
+##### Encolure
+
+* A 47 rangs de hauteur totale, tricoter 23 mailles jersey, 9 mailles mousse, 23 mailles jersey pendant 6 rangs
+* Puis continuer chaque côté séparément en rabattant 1 maille centrale.
+* Vous avez de chaque côté 23 mailles jersey + 4 mailles mousse côté encolure.
+* A 59 rangs de hauteur, commencer les diminutions côté encolure, en diminuant avant les 4 mailles de point mousse 4x1maille (voir diminutions ci-dessus)
+* A 71 rangs de hauteur, rabattre 9 mailles côté encolure et continuer sur les 14 mailles restantes.
+* A 75 rangs de hauteur, rabattre toutes les mailles.
+* Faire les coutures des épaules en grafting.
+
+##### Manches
+
+* Avec 1 fil de chaque couleur, relever 47 mailles sur le côté du pull (23 mailles sur le devant, 1 maille sur la couture, 23 mailles sur le dos) et tricoter en jersey en rabattant 4x1m tous les 4 rangs (diminutions à 2 mailles du bord) à partir du 5ème rang. Changer le fil turquoise pour un fil jaune et tricoter 6 rangs de point mousse. Rabattre au 6ème rang.
+* Coudre les manches et les côtés en une seule fois.
+* Rentrez les fils.
+* Avec un fil de Rico jaune et un crochet numéro 3,5mm, faire une chaînette d’environ 45 cm de long. Passer la chaînette en croisillons dans les mailles d’encolure tous les 4 rangs.
+
+
+Je vous souhaite un bon tricot! 😉
