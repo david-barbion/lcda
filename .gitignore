@@ -1,3 +1,6 @@
 _site
 .sass-cache
 *.swp
+*-160.jpg
+*-480.jpg
+*-800.jpg
