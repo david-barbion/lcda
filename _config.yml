@@ -1,9 +1,12 @@
-# Site settings
+# settings
 title: Le Crochet d'Argent
 email: contact@lecrochetdargent.fr
 description: Réalisations au tricot et crochet
 baseurl: ""
-url: "http://localhost:4000"
+url: "https://www.lecrochetdargent.fr"
+default_bg: /images/assets/logo-big.png
+
+# for facebook instant article
 
 author:
   name     : 'Hélène'
@@ -12,6 +15,7 @@ author:
   facebook : http://facebook.com/Le-crochet-dargent-456929781182767
   twitter  : http://twitter.com/crochetdargent
   mastodon : https://framapiaf.org/@crochetdargent
+  avatar   : /image/assets/logo.png
 
 github: https://github.com/nandomoreirame/zetsu
 disqus_shortname: "le-crochet-dargent"
@@ -29,7 +33,11 @@ sass:
 markdown  : kramdown
 permalink : /:title/
 excerpt_separator: "<!--more-->"
-gems: [jekyll-paginate, jekyll-feed, jekyll-responsive-image]
+gems: 
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-responsive-image
+  - jekyll/figure
 
 defaults:
   - scope:
