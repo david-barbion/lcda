@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Gilet Bergère de France"
+date:   2017-03-31 20:20:00
+categories: tricot
+comments: true
+asset_path: 'gilet-bdf'
+---
+
+Dernier tricot pour la grande, issu du magazine BDF n°174.
+
+Fil Goomy 50 couleur chair, mais changement de teinte pour le fil Lumiac, ici en écru et non en beige.
+
+{% slider 800 %}
+{% responsive_image path: images/assets/gilet-bdf/IMG_20170328_132229515-annotate.jpg %}
+{% responsive_image path: images/assets/gilet-bdf/IMG_20170328_132239915-annotate.jpg %}
+{% responsive_image path: images/assets/gilet-bdf/IMG_20170328_132249038-annotate.jpg %}
+{% endslider %}
+
+Bon tricot!
