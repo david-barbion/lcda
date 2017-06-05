@@ -59,11 +59,8 @@ layout: null
                   {% endif %}
                     <footer>
                         <aside>
-                            {% if post.credit %}
-                              {{ post.credit }}.<br />
-                            {% endif %}
-                            Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
+                          © Le crochet d'Argent
+                        </aside>
                   </footer>
                 </article>
               </body>
