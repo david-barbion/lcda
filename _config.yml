@@ -38,6 +38,7 @@ gems:
   - jekyll-feed
   - jekyll-responsive-image
   - jekyll/figure
+  - jekyll-sitemap
 
 defaults:
   - scope:
