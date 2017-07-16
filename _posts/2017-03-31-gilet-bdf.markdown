@@ -4,6 +4,7 @@ title:  "Gilet Bergère de France"
 date:   2017-03-31 20:20:00
 categories: tricot
 comments: true
+meta_description: 'Un gilet tricoté, modèle Bergère de France avec fil Lumiac en écru' 
 asset_path: 'gilet-bdf'
 ---
 

@@ -4,6 +4,7 @@ title:  "Châle South Bay"
 date:   2017-07-13 16:38:00
 categories: crochet
 comments: true
+meta_description: 'Un châle South Bay crocheté avec fil Ice Yarn 50% acrylique et 50% coton en dégradé vert et bleu'
 asset_path: 'chale-southbay'
 ---
 

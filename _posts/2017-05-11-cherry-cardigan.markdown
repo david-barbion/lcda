@@ -4,6 +4,7 @@ title:  "Gilet Cherry Cardigan"
 date:   2017-05-18 17:23:00
 categories: tricot
 comments: true
+meta_description: 'Un gilot topdown tricoté Cherry Cardigan'
 asset_path: 'cherry-cardigan'
 ---
 

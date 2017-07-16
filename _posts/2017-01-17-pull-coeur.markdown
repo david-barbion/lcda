@@ -4,6 +4,7 @@ title:  "Pull cœur"
 date:   2017-01-17 15:30:08
 categories: tricot
 comments: true
+meta_description: 'Un tricot pull cœur, modèle Bergère de France'
 asset_path: 'pull-coeur'
 ---
 

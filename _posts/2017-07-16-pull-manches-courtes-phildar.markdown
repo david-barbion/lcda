@@ -4,6 +4,7 @@ title:  "Pull manches courtes modèle Phildar"
 date:   2017-07-16 16:38:00
 categories: crochet
 comments: true
+meta_description: 'Un petit pull en coton, manches courtes, léger pour les beaux jours, fait au crochet'
 asset_path: 'pull-manches-courtes-phildar'
 ---
 

@@ -4,6 +4,7 @@ title:  "Châle Erigeneïa (2)"
 date:   2017-05-03 13:31:08
 categories: crochet
 comments: true
+meta_description: 'Un châle dégradé orange et rouge en fil cake 50% coton, 50% acrylique'
 asset_path: 'chale-erigeneia2'
 ---
 

@@ -4,6 +4,7 @@ title:  "Baby Groot"
 date:   2017-04-26 21:31:00
 categories: crochet
 comments: true
+meta_description: 'Un baby groot au crochet en fil acrylique et avec des bras articulés'
 asset_path: 'baby-groot'
 ---
 

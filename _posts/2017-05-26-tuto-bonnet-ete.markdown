@@ -4,6 +4,7 @@ title:  "Bonnet d'été"
 date:   2017-05-26 18:57:00
 categories: crochet
 comments: true
+meta_description: 'Un bonnet d'été crocheté 100% coton, avec explications'
 asset_path: 'bonnet-ete'
 ---
 

@@ -4,6 +4,7 @@ title:  "Marque-page souris"
 date:   2017-04-27 15:09:00
 categories: crochet
 comments: true
+meta_description: 'Un marque-page souris crocheté'
 asset_path: 'marquepage-souris'
 ---
 

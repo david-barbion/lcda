@@ -4,6 +4,7 @@ title:  "Doudou Yoshi"
 date:   2017-05-19 19:01:00
 categories: crochet
 comments: true
+meta_description: 'Un tutoriel de doudou Yoshi à crocheter, avec explications libres'
 asset_path: 'doudou-yoshi'
 ---
 

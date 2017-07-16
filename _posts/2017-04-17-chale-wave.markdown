@@ -4,6 +4,7 @@ title:  "Châle Wave"
 date:   2017-04-17 11:15:00
 categories: crochet
 comments: true
+meta_description: 'Wave, un châle crochetté façon trous trous'
 asset_path: 'chale-wave'
 ---
 

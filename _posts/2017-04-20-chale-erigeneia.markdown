@@ -4,6 +4,7 @@ title:  "Châle Erigeneïa"
 date:   2017-04-20 13:10:08
 categories: crochet
 comments: true
+meta_description: 'Un châle crocheté en dégradé violet, vert et écru, 50% coton et 50% acrylique, bordure en lin, coton et acrylique'
 asset_path: 'chale-erigeneia'
 ---
 
