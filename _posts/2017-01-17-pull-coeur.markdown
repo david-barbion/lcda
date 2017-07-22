@@ -6,6 +6,10 @@ categories: tricot
 comments: true
 meta_description: 'Un tricot pull cœur, modèle Bergère de France'
 asset_path: 'pull-coeur'
+tags:
+  - 'tricot'
+  - 'pull'
+  - 'pullcoeur'
 ---
 
 Dernière réalisation terminée ce jour, le pull cœur de chez Bergère de France. Laine Halo et Angel de BDF, taille 6 ans, aiguilles 3 et 3,5mm.
