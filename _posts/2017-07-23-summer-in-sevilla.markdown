@@ -132,7 +132,7 @@ Rang 37 : 4ma/2br dans la 1ère br, \*passer 1m, 1ma, 1br entre les 2 br suivan
 Rang 38 : 4ma/2br dans la 1ère br, 1ma, \*1br/2ma/1br dans le 1er arceau, passer un arceau\* (répéter jusqu’à la pointe), 1br/2ma/1br dans chaque arceau de part et d’autre de la br de pointe, \*1br/2ma/1br dans le 1er arceau, passer un arceau\*, 2br/1Dbr dans la dernière m
 Rang 39 : 4ma/2br dans la 1ère br, \*passer 1m, 1ma, 1br entre les 2 br suivantes, 1ma, 1br dans l’arceau\*, 1br/1ma/1br/1ma/1br entre les 2br centrales, \*passer 1m, 1ma, 1br entre les 2 br suivantes, 1ma, 1br dans l’arceau\*, 2br/1Dbr dans la dernière m
 
-### Bordure 
+## Bordure 
 
 Rang 40 : 1ma, 1ms sur la 1ère br, 4ma, 3br dans le 1er arceau, 4ma, passer 1 arceau, 1ms dans l’arceau suivant, \*4ma, passer 1 arceau, 3br dans l’arceau suivant, 4ma, passer un arceau, 1ms dans l’arceau suivant\*
 Pour la pointe, après la ms du dernier arceau avant les 3br de pointe :
@@ -145,12 +145,22 @@ Couper et rentrer les fils.
 
 
 
-### Schémas
+## Schémas
 
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-annotate.png title:"Motif 1" %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-pointe-annotate.png title:"Pointe du motif 1" %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-annotate.png title:"Motif 2" %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-pointe-annotate.png title:"Pointe du motif 2" %}
-{% responsive_image path: images/assets/summer-in-sevilla/bordure-annotate.png title:"Bordure" %}
+{% slider 900 %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif1-annotate.png %}
+{% endslider %}
+{% slider 900 %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif1-pointe-annotate.png %}
+{% endslider %}
+{% slider 900 %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif2-annotate.png %}
+{% endslider %}
+{% slider 900 %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif2-pointe-annotate.png %}
+{% endslider %}
+{% slider 900 %}
+{% responsive_image path: images/assets/summer-in-sevilla/bordure-annotate.png %}
+{% endslider %}
 
 Vous pouvez télécharger les explications en PDF [ici]({{ site.url }}/assets/pdf/Summer%20in%20Sevilla.pdf).
