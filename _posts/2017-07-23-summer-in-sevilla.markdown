@@ -147,10 +147,10 @@ Couper et rentrer les fils.
 
 ### Schémas
 
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-annotate.png %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-pointe-annotate.png %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-annotate.png %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-pointe-annotate.png %}
-{% responsive_image path: images/assets/summer-in-sevilla/bordure-annotate.png %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif1-annotate.png title:"Motif 1" %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif1-pointe-annotate.png title:"Pointe du motif 1" %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif2-annotate.png title:"Motif 2" %}
+{% responsive_image path: images/assets/summer-in-sevilla/motif2-pointe-annotate.png title:"Pointe du motif 2" %}
+{% responsive_image path: images/assets/summer-in-sevilla/bordure-annotate.png title:"Bordure" %}
 
 Vous pouvez télécharger les explications en PDF [ici]({{ site.url }}/assets/pdf/Summer%20in%20Sevilla.pdf).
