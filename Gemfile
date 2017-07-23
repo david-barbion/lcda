@@ -4,7 +4,7 @@ source 'http://rubygems.org'
 
 group :jekyll_plugins do
      gem "jekyll-feed", "~> 0.6"
-     gem "jekyll-responsive-image"
+     gem "jekyll-responsive-image", "~> 1.4.0"
      gem "jekyll-figure"
      gem "jekyll-sitemap"
 end
@@ -13,6 +13,6 @@ end
 #group :development do
   gem 'rake', '~> 10.4.2'
   gem 'sass', '~> 3.4.10'
-  gem 'jekyll', '~> 3.4.3'
+  gem 'jekyll', '~> 3.5.1'
   gem 'jekyll-paginate'
 #end

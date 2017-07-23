@@ -33,7 +33,7 @@ sass:
 markdown  : kramdown
 permalink : /:title/
 excerpt_separator: "<!--more-->"
-gems: 
+plugins: 
   - jekyll-paginate
   - jekyll-feed
   - jekyll-responsive-image
