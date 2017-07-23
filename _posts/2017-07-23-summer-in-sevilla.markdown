@@ -153,4 +153,4 @@ Couper et rentrer les fils.
 {% responsive_image path: images/assets/summer-in-sevilla/motif2-pointe-annotate.png %}
 {% responsive_image path: images/assets/summer-in-sevilla/bordure-annotate.png %}
 
-Vous pouvez télécharger les explications en PDF [ici](/assets/pdf/Summer%20in%20Sevilla.pdf).
+Vous pouvez télécharger les explications en PDF [ici]({{ site.url }}/assets/pdf/Summer%20in%20Sevilla.pdf).
