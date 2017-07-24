@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Summer in Sevilla"
-date:   2017-07-23 19:33:00
+date:   2017-07-24 06:45:00
 categories: crochet
 comments: true
 meta_description: "Châle d'été au crochet, summer in Sevilla"
@@ -74,7 +74,7 @@ Les 2 rangs qui composent le motif 2 sont répétés 4 fois ici mais qui peuvent
 
 Rang 1 : dans un rond magique, faire 4ma, 3br, 3ma, 3br et 1Dbr
 
-Rangs 2 à 9 : 4ma, 2br dans la 1ère br, 1br dans chaque br du rg préc., 2br/3ma/br dans l’arceau de 3 ma, 1br dans chaque br du rg préc., 2br et 1Dbr dans la dernière maille
+Rangs 2 à 9 : 4ma, 2br dans la 1ère br, 1br dans chaque br du rg préc., 2br/3ma/2br dans l’arceau de 3 ma, 1br dans chaque br du rg préc., 2br et 1Dbr dans la dernière maille
 
 Rang 10 : 3 Dbr dans la 1ère m, \*passer 2m, 1Dbr dans la 3ème m, 1ma, 1Dbr croisée dans la 1ère m\*, répéter jusqu’à 1m avant l’arceau central, 1Dbr dans l’arceau/1ma/1Dbr croisée dans la dernière m précédant l’arceau, 1Dbr/2ma/1Dbr croisée dans l’arceau, 1 Dbr dans la 1ère m après l’arceau, 1ma et 1Dbr croisée dans l’arceau, \*passer 2m, 1Dbr dans la 3ème m, 1ma, 1Dbr croisée dans la 1ère m\*, 3 Dbr dans la dernière br du rg préc. (11 paires de Dbr croisées de chaque côté sanx compter la paire de Dbr centrale)
 
