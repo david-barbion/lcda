@@ -1,11 +1,11 @@
-# Jekyll Ideal Image Slider v1.0
+# Jekyll Ideal Image Slider v1.1
 # Description: Add image sliders to Jekyll with Ideal Image Slider
 # Documentation: https://github.com/jekylltools/jekyll-ideal-image-slider#readme
 # Source: https://github.com/jekylltools/jekyll-ideal-image-slider
 #
 # Syntax:
 #
-# {% slider height [captions] %}
+# {% slider height [bullets] [captions] %}
 # {% endslider %}
 #
 # Example Input:
@@ -27,8 +27,10 @@
 module Jekyll
   class SliderTag < Liquid::Block
     alias_method :render_block, :render
+    @slider_bullets = nil
     @slider_captions = nil
     @slider_height = nil
+    Bullets = /bullets/i
     Captions = /captions/i
     Height = /(auto|\d+:\d+)/i
     Height_Numeric = /(\d+)/i
@@ -40,6 +42,9 @@ module Jekyll
         @slider_height = "#{$1}"
       else
         @slider_height = "\'auto\'"
+      end
+      if markup =~ Bullets
+        @slider_bullets = "true"
       end
       if markup =~ Captions
         @slider_captions = "true"
@@ -67,6 +72,7 @@ module Jekyll
         slider_script += "selector:\'\##{slider_id}\',"
         slider_script += "height:#{@slider_height}"
         slider_script += "});"
+        slider_script += "slider.addBulletNav();" if @slider_bullets
         slider_script += "slider.addCaptions();" if @slider_captions
         slider_script += "slider.start();"
         slider_script += "</script>"
@@ -87,3 +93,4 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('slider', Jekyll::SliderTag)
+
