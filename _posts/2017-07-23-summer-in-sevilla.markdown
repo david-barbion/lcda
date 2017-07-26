@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summer in Sevilla"
+title:  "Un été à Séville"
 date:   2017-07-24 06:45:00
 categories: crochet
 comments: true
