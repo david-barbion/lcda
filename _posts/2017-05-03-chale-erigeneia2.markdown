@@ -6,6 +6,11 @@ categories: crochet
 comments: true
 meta_description: 'Un châle dégradé orange et rouge en fil cake 50% coton, 50% acrylique'
 asset_path: 'chale-erigeneia2'
+tags:
+  - 'crochet'
+  - 'chale'
+  - 'erigeneia'
+  - 'degrade'
 ---
 
 Revoici Erigeneïa, en dégradé orange/rouge cette fois.

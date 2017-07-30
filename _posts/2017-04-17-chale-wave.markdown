@@ -6,6 +6,12 @@ categories: crochet
 comments: true
 meta_description: 'Wave, un châle crochetté façon trous trous'
 asset_path: 'chale-wave'
+tags:
+  - 'chale'
+  - 'wave'
+  - 'crochet'
+  - 'kal'
+  - 'gratuit'
 ---
 
 Voici **Wave**, un châle créé par Kristen Finley, que j'ai un peu modifié comme à mon habitude ;-)

@@ -7,11 +7,11 @@ comments: true
 meta_description: "Crochet summer shawl, summer in Sevilla"
 asset_path: 'summer-in-sevilla'
 tags:
-  - shawl
-  - crochet
-  - iceyarn
-  - summer
-  - sevilla
+  - 'crochet'
+  - 'shawl'
+  - 'ice yarn'
+  - 'summer'
+  - 'sevilla'
 ---
 
 Hello!

@@ -7,11 +7,13 @@ comments: true
 meta_description: "Châle d'été au crochet, summer in Sevilla"
 asset_path: 'summer-in-sevilla'
 tags:
-  - châle
-  - shawl
-  - crochet
-  - iceyarn
-  - summer
+  - 'crochet'
+  - 'chale'
+  - 'shawl'
+  - 'ice yarn'
+  - 'ete'
+  - 'creation'
+  - 'summer'
 ---
 
 Bonjour à vous!

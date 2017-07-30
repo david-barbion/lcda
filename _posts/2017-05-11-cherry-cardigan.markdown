@@ -6,6 +6,12 @@ categories: tricot
 comments: true
 meta_description: 'Un gilot topdown tricoté Cherry Cardigan'
 asset_path: 'cherry-cardigan'
+tags:
+  - 'gilet'
+  - 'topdown'
+  - 'cherry cardigan'
+  - 'tricot'
+  - 'gratuit'
 ---
 
 Je vous présente aujourd'hui **Cherry Cardigan** créé par Colette Audrey dont vous trouverez le lien gratuit ici:

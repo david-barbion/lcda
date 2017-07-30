@@ -431,3 +431,35 @@
     margin: 0 0 0.1em 0;
   }
 }
+
+// related posts
+.rect {
+    border-top: 2px solid $gray-color-light;
+    padding-top: 15px;
+    margin:0 auto;
+}
+
+
+.rect {
+  .rel {
+      width: 215px;
+      display: inline-block;
+      padding: 5px;
+  }
+  img {
+    opacity: 0.9;
+    &:hover {
+     opacity: 1;    
+    }
+  }
+    a {
+      color: $text-color;
+      @include transition(color .2s linear);
+
+      &:hover,
+      &:focus {
+        color: $primary-color;
+        text-decoration: none;
+      }
+    }
+}

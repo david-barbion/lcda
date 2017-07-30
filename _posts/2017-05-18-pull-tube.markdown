@@ -6,6 +6,12 @@ categories: tricot
 comments: true
 meta_description: 'Un tutoriel de pull Aquasun à tricoter, avec explications libres'
 asset_path: 'pull-tube'
+tags:
+  - 'tricot'
+  - 'pull'
+  - 'aquasun'
+  - 'creation'
+  - 'gratuit'
 ---
 
 Les beaux jours arrivent, et on ressort les cotons pour plein de nouveautés!

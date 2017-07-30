@@ -6,6 +6,12 @@ categories: crochet
 comments: true
 meta_description: 'Un marque-page souris crocheté'
 asset_path: 'marquepage-souris'
+tags:
+  - 'crochet'
+  - 'souris'
+  - 'marque-page'
+  - 'gratuit'
+  - 'cadeau'
 ---
 
 

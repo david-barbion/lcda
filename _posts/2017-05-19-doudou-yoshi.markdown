@@ -6,6 +6,13 @@ categories: crochet
 comments: true
 meta_description: 'Un tutoriel de doudou Yoshi à crocheter, avec explications libres'
 asset_path: 'doudou-yoshi'
+tags:
+  - 'crochet'
+  - 'yoshi'
+  - 'geek'
+  - 'gratuit'
+  - 'doudou'
+  - 'cadeau'
 ---
 
 J'ai participé hier au concours de Marcus, pour gagner son dernier livre dédicacé (Pixel Mania), et voici une idée qui m'est venue en z'yeutant un peu les photos des jeunes parents geeks et de leurs bambins tout-de-geek-vétus!

@@ -6,6 +6,12 @@ categories: crochet
 comments: true
 meta_description: "Un bonnet d'été crocheté 100% coton, avec explications"
 asset_path: 'bonnet-ete'
+tags:
+  - 'crochet'
+  - 'bonnet'
+  - 'gratuit'
+  - 'ete'
+  - 'coton'
 ---
 
 Un petit tuto ce soir, par ces grosses chaleurs: un bonnet d'été! 100% coton, crochet numéro 3, fil Phil Coton 3 de Phildar.

@@ -6,6 +6,11 @@ categories: crochet
 comments: true
 meta_description: 'Un baby groot au crochet en fil acrylique et avec des bras articulés'
 asset_path: 'baby-groot'
+tags:
+  - 'crochet'
+  - 'jouet'
+  - 'groot'
+  - 'gratuit'
 ---
 
 Aujourd'hui sort au cinéma Les gardiens de la galaxie 2! Alors pour l'occasion, **Baby Groot** s'est invité à la maison!

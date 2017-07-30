@@ -6,6 +6,11 @@ categories: tricot
 comments: true
 meta_description: 'Un gilet tricoté, modèle Bergère de France avec fil Lumiac en écru' 
 asset_path: 'gilet-bdf'
+tags:
+  - 'gilet'
+  - 'tricot'
+  - 'bergère de france'
+  - 'ecru'  
 ---
 
 Dernier tricot pour la grande, issu du magazine BDF n°174.

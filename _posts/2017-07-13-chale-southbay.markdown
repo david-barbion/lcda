@@ -6,6 +6,11 @@ categories: crochet
 comments: true
 meta_description: 'Un châle South Bay crocheté avec fil Ice Yarn 50% acrylique et 50% coton en dégradé vert et bleu'
 asset_path: 'chale-southbay'
+tags:
+  - 'crochet'
+  - 'chale'
+  - 'southbay'
+  - 'ice yarn'
 ---
 
 Après une assez longue pause, retour aux aiguilles et au crochet avec aujourd'hui, un petit châle.

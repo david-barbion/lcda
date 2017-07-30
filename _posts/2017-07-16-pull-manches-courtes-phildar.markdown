@@ -6,6 +6,12 @@ categories: crochet
 comments: true
 meta_description: 'Un petit pull en coton, manches courtes, léger pour les beaux jours, fait au crochet'
 asset_path: 'pull-manches-courtes-phildar'
+tags:
+  - 'crochet'
+  - 'pull'
+  - 'phildar'
+  - 'gratuit'
+  - 'coton'
 ---
 
 Aujourd'hui, je vous présente un petit pull en coton, manches courtes, léger pour les beaux jours.
