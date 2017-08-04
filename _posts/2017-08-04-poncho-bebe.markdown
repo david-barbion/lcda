@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Joli poncho pour bébé"
-date:   2017-08-04 17:51:00
+date:   2017-08-04 21:25:00
 categories: tricot
 comments: true
-meta_description: 'Un poncho pour bébé tricoté, modèle cheval blanc et laine Bamboulène'
+meta_description: 'Un poncho pour bébé tricoté, modèle Cheval Blanc et laine Bamboulène'
 asset_path: 'poncho-bebe'
 tags:
   - 'poncho'
