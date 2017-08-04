@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Un été à Séville"
-date:   2017-07-24 06:45:00
+date:   2017-07-24 06:46:00
 categories: crochet
 comments: true
-meta_description: "Châle d'été au crochet, summer in Sevilla"
+meta_description: "Tutoriel gratuit châle d'été au crochet, summer in Sevilla"
 asset_path: 'summer-in-sevilla'
 tags:
   - 'crochet'

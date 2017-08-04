@@ -1,10 +1,10 @@
 ---
 layout: post-en
 title:  "Summer in Sevilla"
-date:   2017-07-26 16:45:00
+date:   2017-07-26 16:46:00
 categories: crochet
 comments: true
-meta_description: "Crochet summer shawl, summer in Sevilla"
+meta_description: "Free tutorial of crochet summer shawl, summer in Sevilla"
 asset_path: 'summer-in-sevilla'
 tags:
   - 'crochet'
