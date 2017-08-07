@@ -11,3 +11,49 @@ slug: home
 
   {% include pagination.html %}
 </div>
+
+<script type="application/ld+json">
+{ "@context": "http://schema.org", 
+ "@type": "Blog",
+ "keywords": "Créations et réalisations au tricot et crochet", 
+ "url": "https://www.lecrochetdargent.fr",
+ "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.lecrochetdargent.fr"
+  },
+ "author": {
+    "@type": "Person",
+    "name": "Hélène",
+    "sameAs": [
+        "https://twitter.com/crochetdargent",
+        "https://facebook.com/Le-crochet-dargent-456929781182767",
+        "https://framapiaf.org/@crochetdargent"
+    ]
+  }
+ }
+</script>
+
+{% assign items = "" %}
+{% for post in site.posts %}
+  {% capture list_item %}
+      {% 
+          include blog-list-item.html 
+          index=forloop.index
+          url=post.url
+          title=post.title
+          date=post.date
+      %}
+  {% endcapture %}
+  {% assign items = items | append: list_item | append: "|||" %}
+{% endfor %}
+  
+{% assign items = items | split: "|||" | join: ',' %}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+  {{ items }}
+  ]
+}
+</script>
