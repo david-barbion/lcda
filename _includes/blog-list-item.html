@@ -18,22 +18,21 @@
     },
     "publisher": {
       "@type": "Organization",
-    "name": "Hélène",
-    "sameAs": [
+      "name": "Hélène",
+      "sameAs": [
           "https://twitter.com/crochetdargent",
           "https://facebook.com/Le-crochet-dargent-456929781182767",
           "https://framapiaf.org/@crochetdargent"
-    ],
-    "logo": {
-  		"@type": "ImageObject",
-  		"contentUrl": "https://www.lecrochetdargent.fr/images/assets/logo.png",
-  		  "url": "https://www.lecrochetdargent.fr"
-    }
+      ],
+      "logo": {
+  		  "@type": "ImageObject",
+  		  "contentUrl": "https://www.lecrochetdargent.fr/images/assets/logo.png"
+      }
     },
-       "mainEntityOfPage":{  
+    "mainEntityOfPage":{  
       "@type":"WebPage",
       "@id":"https://www.lecrochetdargent.fr{{ include.url }}"
-   },
+    },
     "datePublished": "{{ include.date | | date: '%Y-%m-%d' }}",
     "dateModified": "{{ include.date | | date: '%Y-%m-%d' }}"
   }
