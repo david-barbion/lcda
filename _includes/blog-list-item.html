@@ -7,8 +7,10 @@
     "headline": "{{ include.title }}",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://www.lecrochetdargent.fr/images/assets/{{ post.asset_path }}/featured.jpg",
-      "url": "https://www.lecrochetdargent.fr"
+      "contentUrl": "https://www.lecrochetdargent.fr/images/assets/{{ post.asset_path }}/featured-800.jpg",
+      "url": "https://www.lecrochetdargent.fr",
+      "width": "800",
+      "height": "1067"
     },
     "author": {
       "@type": "Person",
@@ -32,6 +34,7 @@
       "@type":"WebPage",
       "@id":"https://www.lecrochetdargent.fr{{ include.url }}"
    },
-    "datePublished": "{{ include.date | | date: '%Y-%m-%d' }}"
+    "datePublished": "{{ include.date | | date: '%Y-%m-%d' }}",
+    "dateModified": "{{ include.date | | date: '%Y-%m-%d' }}"
   }
 }

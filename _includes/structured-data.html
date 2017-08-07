@@ -10,6 +10,7 @@
    "wordCount":"{{ wordcount }}",
    "url":"https://www.lecrochetdargent.fr{{ include.link }}",
    "datePublished":"{{ include.date | | date: '%Y-%m-%d' }}",
+   "dateModified":"{{ include.date | | date: '%Y-%m-%d' }}",
    "author":{  
       "@type":"Person",
       "name":"Hélène",
@@ -35,8 +36,10 @@
    },
    "image":{  
       "@type":"ImageObject",
-      "contentUrl":"https://www.lecrochetdargent.fr/images/assets/{{ include.asset_path }}/featured.jpg",
+      "contentUrl":"https://www.lecrochetdargent.fr/images/assets/{{ include.asset_path }}/featured-800.jpg",
       "url":"https://www.lecrochetdargent.fr",
+      "width": "800",
+      "height": "1067"
    },
    "mainEntityOfPage":{  
       "@type":"WebPage",
