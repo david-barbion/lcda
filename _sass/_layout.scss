@@ -320,7 +320,7 @@
     color: #fff;
   }
   .fa-mastodon::before { // to be replaced by awesome glyph
-    background-image: url('/images/assets/Mastodon_logo.svg');
+    background-image: url('/assets/images/Mastodon_logo.svg');
     background-size: 18px 18px;
     display: inline-block;
     width: 18px; 
@@ -461,5 +461,69 @@
         color: $primary-color;
         text-decoration: none;
       }
+    }
+}
+
+// gallery
+$on-palm: 600px;
+
+.row {
+    width: 100%;
+    display: block;
+
+    &:after{
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    /* base definition */
+    .column{
+        float: left;
+        display: block;
+        box-sizing: border-box;
+    }
+    .full-width {
+        @extend .column;
+        width: 100%;
+    }
+    .half-width {
+        @extend .column;
+        @media screen and (min-width: $on-palm) {
+            width: 48%;
+        }
+    }
+    .one-third-width {
+        @extend .column;
+        width: 31.3333333%;
+    }
+    .one-tenth-width {
+        @extend .column;
+        width: 10%;
+    }
+    .nine-tenth-width {
+        @extend .column;
+        @media screen and (min-width: $on-palm) {
+            width: 90%;
+        }
+    }
+    .two-third-width {
+        @extend .column;
+        @media screen and (min-width: $on-palm) {
+            width: 64.6666666%;
+        }
+    }
+    @media screen and (min-width: $on-palm) {
+        .left {
+            margin-left: 0;
+            margin-right: 2%;
+        }
+        .right {
+            margin-left: 2%;
+            margin-right: 0;
+        }
+    }
+    .lg-hide-items .lg-sub-html {
+        display: none;
     }
 }

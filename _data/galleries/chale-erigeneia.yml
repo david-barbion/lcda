@@ -1,0 +1,30 @@
+picture_path: chale-erigeneia
+pictures:
+- filename: IMG_20170420_125723661-annotate
+  original: IMG_20170420_125723661-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170420_125723661-annotate-160x213.jpg
+  - IMG_20170420_125723661-annotate-800x1067.jpg
+  - IMG_20170420_125723661-annotate-480x640.jpg
+  thumbnail: IMG_20170420_125723661-annotate-160x213.jpg
+- filename: IMG_20170420_125555665-annotate
+  original: IMG_20170420_125555665-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170420_125555665-annotate-480x640.jpg
+  - IMG_20170420_125555665-annotate-800x1067.jpg
+  - IMG_20170420_125555665-annotate-160x213.jpg
+  thumbnail: IMG_20170420_125555665-annotate-160x213.jpg
+- filename: IMG_20170420_125817142-annotate
+  original: IMG_20170420_125817142-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170420_125817142-annotate-160x213.jpg
+  - IMG_20170420_125817142-annotate-480x640.jpg
+  - IMG_20170420_125817142-annotate-800x1067.jpg
+  thumbnail: IMG_20170420_125817142-annotate-160x213.jpg
+- filename: IMG_20170420_125625713-annotate
+  original: IMG_20170420_125625713-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170420_125625713-annotate-480x640.jpg
+  - IMG_20170420_125625713-annotate-800x1067.jpg
+  - IMG_20170420_125625713-annotate-160x213.jpg
+  thumbnail: IMG_20170420_125625713-annotate-160x213.jpg

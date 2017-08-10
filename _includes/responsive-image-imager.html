@@ -1,0 +1,15 @@
+{% assign smallest = resized | sort: 'width' | first %}
+
+<div class="responsive-image">
+  <img class="responsive-image__placeholder" src="{{ site.url }}/assets/resized/{{ original.dirname }}/{{ original.filename }}-{{ smallest.width }}x{{ smallest.height }}.{{ original.extension }}">
+    <div class="responsive-image__delayed" data-src="{{ site.url }}/assets/images/{{ original.dirname }}/{{ original.basename }}"></div>
+</div>
+
+<script>
+    new Imager('.responsive-image__delayed', {
+        availableWidths: [{{ resized | map: 'width' | join: ', ' }}],
+        onImagesReplaced: function() {
+            $('.responsive-image__placeholder').hide();
+        }
+    });
+</script>

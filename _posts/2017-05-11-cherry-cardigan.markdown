@@ -12,6 +12,7 @@ tags:
   - 'cherry cardigan'
   - 'tricot'
   - 'gratuit'
+support: [jquery, gallery]
 ---
 
 Je vous présente aujourd'hui **Cherry Cardigan** créé par Colette Audrey dont vous trouverez le lien gratuit ici:
@@ -26,12 +27,7 @@ Celui-ci est légèrement modifié à ma sauce:
 * j'ai rajouté une quinzaine de rangs sur le bas du gilet que je trouvais trop court
 * le lien est fait au crochet n°5 (37 mailles en l'air et 36 mailles coulées) avec un fil doublé, et non au tricot.
 
-{% slider 900 %}
-{% responsive_image path: images/assets/cherry-cardigan/IMG_20170511_164243919-annotate.jpg %}
-{% responsive_image path: images/assets/cherry-cardigan/IMG_20170511_164317379-annotate.jpg %}
-{% responsive_image path: images/assets/cherry-cardigan/IMG_20170511_164333364-annotate.jpg %}
-{% responsive_image path: images/assets/cherry-cardigan/IMG_20170511_164506935-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.cherry-cardigan %}
 
 Je vous souhaite un très bon tricot!
 

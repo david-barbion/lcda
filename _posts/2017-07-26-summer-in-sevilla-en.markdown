@@ -12,6 +12,7 @@ tags:
   - 'ice yarn'
   - 'summer'
   - 'sevilla'
+support: [jquery, gallery]
 ---
 
 Hello!
@@ -31,17 +32,7 @@ This shawl is composed of 4 parts :
 
 You'll find a download link at the end of this page, in PDF.
 
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113109748-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113114494-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113150282-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113200469-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113236364-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113632783-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113739613-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113912069-annotate.jpg %}
-{% endslider %}
-
+{% include gallery-layout.html gallery=site.data.galleries.summer-in-sevilla id_number=1 %}
 
 ## Stiches
 
@@ -151,20 +142,6 @@ Fasten off.
 
 ## Schemes
 
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-pointe-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-pointe-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/bordure-annotate.png %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.summer-in-sevilla-e id_number=2 %}
 
 You can download pattern in PDF [here]({{ site.url }}/assets/pdf/Summer%20in%20Sevilla%20-%20US.pdf).

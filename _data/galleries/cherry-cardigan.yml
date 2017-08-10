@@ -1,0 +1,30 @@
+picture_path: cherry-cardigan
+pictures:
+- filename: IMG_20170511_164317379-annotate
+  original: IMG_20170511_164317379-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170511_164317379-annotate-160x213.jpg
+  - IMG_20170511_164317379-annotate-480x640.jpg
+  - IMG_20170511_164317379-annotate-800x1067.jpg
+  thumbnail: IMG_20170511_164317379-annotate-160x213.jpg
+- filename: IMG_20170511_164506935-annotate
+  original: IMG_20170511_164506935-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170511_164506935-annotate-160x213.jpg
+  - IMG_20170511_164506935-annotate-480x640.jpg
+  - IMG_20170511_164506935-annotate-800x1067.jpg
+  thumbnail: IMG_20170511_164506935-annotate-160x213.jpg
+- filename: IMG_20170511_164333364-annotate
+  original: IMG_20170511_164333364-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170511_164333364-annotate-160x213.jpg
+  - IMG_20170511_164333364-annotate-480x640.jpg
+  - IMG_20170511_164333364-annotate-800x1067.jpg
+  thumbnail: IMG_20170511_164333364-annotate-160x213.jpg
+- filename: IMG_20170511_164243919-annotate
+  original: IMG_20170511_164243919-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170511_164243919-annotate-480x640.jpg
+  - IMG_20170511_164243919-annotate-800x1067.jpg
+  - IMG_20170511_164243919-annotate-160x213.jpg
+  thumbnail: IMG_20170511_164243919-annotate-160x213.jpg

@@ -13,6 +13,7 @@ tags:
   - 'gratuit'
   - 'doudou'
   - 'cadeau'
+support: [jquery, gallery]
 ---
 
 J'ai participé hier au concours de Marcus, pour gagner son dernier livre dédicacé (Pixel Mania), et voici une idée qui m'est venue en z'yeutant un peu les photos des jeunes parents geeks et de leurs bambins tout-de-geek-vétus!
@@ -21,11 +22,7 @@ Alors voici **Doudou-Yoshi**!
 
 Création réalisée ce jour, fil coton DMC Natura, crochet 2,5mm!
 
-{% slider 800 %}
-{% responsive_image path: images/assets/doudou-yoshi/IMG_20170519_180629928-annotate.jpg %}
-{% responsive_image path: images/assets/doudou-yoshi/IMG_20170519_180711561-annotate.jpg %}
-{% responsive_image path: images/assets/doudou-yoshi/IMG_20170519_180552876-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.doudou-yoshi %}
 
 ### Explications
 

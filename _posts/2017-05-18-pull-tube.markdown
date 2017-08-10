@@ -12,6 +12,7 @@ tags:
   - 'aquasun'
   - 'creation'
   - 'gratuit'
+support: [jquery, gallery]
 ---
 
 Les beaux jours arrivent, et on ressort les cotons pour plein de nouveautés!
@@ -23,10 +24,7 @@ Couleurs vives et fraîches, à la fois solaire et aquatique, ce petit pull aux 
 Les explications sont libres, ci-dessous.
 
 
-{% slider 800 %}
-{% responsive_image path: images/assets/pull-tube/IMG_20170518_094219023-annotate.jpg %}
-{% responsive_image path: images/assets/pull-tube/IMG_20170518_094317784-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.pull-tube %}
 
 ### Explications
 

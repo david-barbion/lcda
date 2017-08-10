@@ -1,0 +1,9 @@
+picture_path: marquepage-souris
+pictures:
+- filename: IMG_20170426_200428786-annotate
+  original: IMG_20170426_200428786-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170426_200428786-annotate-160x213.jpg
+  - IMG_20170426_200428786-annotate-480x640.jpg
+  - IMG_20170426_200428786-annotate-800x1067.jpg
+  thumbnail: IMG_20170426_200428786-annotate-160x213.jpg

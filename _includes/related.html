@@ -3,7 +3,6 @@
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  2 %}
   {% assign maxRelatedCounter = 0 %}
-  <p>À voir aussi</p>
   {% for post in site.posts %}
 
    
@@ -26,7 +25,7 @@
               <div class="rel">
                   <h5>{{ post.title }}</h5>
 
-                     {% assign image_path = post.asset_path | prepend: 'images/assets/' | append: '/featured.jpg' %}
+                     {% assign image_path = post.asset_path | prepend: 'assets/images/' | append: '/featured.jpg' %}
                      {% responsive_image_block %}
                         path: {{ image_path }}
                      {% endresponsive_image_block %}

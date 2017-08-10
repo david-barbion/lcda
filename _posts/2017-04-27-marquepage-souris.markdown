@@ -12,6 +12,7 @@ tags:
   - 'marque-page'
   - 'gratuit'
   - 'cadeau'
+support: [jquery, gallery]
 ---
 
 
@@ -21,8 +22,6 @@ Fil en coton Coton3 de Phildar, crochet n°3.
 
 Tuto en anglais par ici: <http://www.supergurumi.com/amigurumi-crochet-rat-bookmark>
 
-{% slider 800 %}
-{% responsive_image path: images/assets/marquepage-souris/IMG_20170426_200428786-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.marquepage-souris %}
 
 Bon crochet!

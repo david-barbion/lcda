@@ -22,10 +22,10 @@ Fait au crochet 4. Dimensions: 186 cm de large sur 86 cm de hauteur.
 Voici le lien du patron gratuit à télécharger: <http://www.ravelry.com/patterns/library/erigeneia>.
 
 {% slider 900 %}
-{% responsive_image path: images/assets/chale-erigeneia/IMG_20170420_125555665-annotate.jpg %}
-{% responsive_image path: images/assets/chale-erigeneia/IMG_20170420_125625713-annotate.jpg %}
-{% responsive_image path: images/assets/chale-erigeneia/IMG_20170420_125723661-annotate.jpg %}
-{% responsive_image path: images/assets/chale-erigeneia/IMG_20170420_125817142-annotate.jpg %}
+{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125555665-annotate.jpg %}
+{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125625713-annotate.jpg %}
+{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125723661-annotate.jpg %}
+{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125817142-annotate.jpg %}
 {% endslider %}
 
 Un grand châle au coloris printanier pour réchauffer vos soirées!

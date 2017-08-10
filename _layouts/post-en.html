@@ -15,8 +15,8 @@ slug: single
 
   <div class="post-content">
     <div class="featured-post">
-    {% assign featured = page.asset_path | prepend: '/images/assets/' | append: '/featured.jpg' %}
-    {% assign image_path = page.asset_path | prepend: 'images/assets/' | append: '/featured.jpg' %}
+    {% assign featured = page.asset_path | prepend: '/assets/images/' | append: '/featured.jpg' %}
+    {% assign image_path = page.asset_path | prepend: 'assets/images/' | append: '/featured.jpg' %}
     {% for static_file in site.static_files %}
       {% if static_file.path == featured %}                                                                                                                                             
         {% responsive_image_block %}

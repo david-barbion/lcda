@@ -1,0 +1,16 @@
+picture_path: baby-groot
+pictures:
+- filename: IMG_20170426_200935448-annotate
+  original: IMG_20170426_200935448-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170426_200935448-annotate-480x640.jpg
+  - IMG_20170426_200935448-annotate-800x1067.jpg
+  - IMG_20170426_200935448-annotate-160x213.jpg
+  thumbnail: IMG_20170426_200935448-annotate-160x213.jpg
+- filename: IMG_20170426_201031137-annotate
+  original: IMG_20170426_201031137-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170426_201031137-annotate-800x1067.jpg
+  - IMG_20170426_201031137-annotate-480x640.jpg
+  - IMG_20170426_201031137-annotate-160x213.jpg
+  thumbnail: IMG_20170426_201031137-annotate-160x213.jpg

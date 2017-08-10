@@ -25,15 +25,10 @@
     </span>
   </header>
   <div class="post-content">
-    {% assign featured = post.asset_path | prepend: '/images/assets/' | append: '/featured.jpg' %}
-    {% assign image_path = post.asset_path | prepend: 'images/assets/' | append: '/featured.jpg' %}
-    {% for static_file in site.static_files %}
-      {% if static_file.path == featured %}
-        {% responsive_image_block %}
-            path: {{ image_path }}
-        {% endresponsive_image_block %}
-      {% endif %}
-    {% endfor %}
+    {% assign image_path = post.asset_path | prepend: 'assets/images/' | append: '/featured.jpg' %}
+    {% responsive_image_block %}
+        path: {{ image_path }}
+    {% endresponsive_image_block %}
     {{ post.content | strip_html | truncatewords: 30 }} <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Lire plus &raquo;</a>
   </div>
 </article>

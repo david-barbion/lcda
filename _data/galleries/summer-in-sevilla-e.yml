@@ -1,0 +1,36 @@
+picture_path: summer-in-sevilla
+pictures:
+- filename: motif1-annotate
+  original: motif1-annotate-800x931.png
+  sizes:
+  - motif1-annotate-160x186.png
+  - motif1-annotate-480x559.png
+  thumbnail: motif1-annotate-160x186.png
+- filename: motif1-pointe-annotate
+  original: motif1-pointe-annotate-1600x1189.png
+  sizes:
+  - motif1-pointe-annotate-800x594.png
+  - motif1-pointe-annotate-160x119.png
+  - motif1-pointe-annotate-480x357.png
+  thumbnail: motif1-pointe-annotate-160x119.png
+- filename: motif2-annotate
+  original: motif2-annotate-1600x1060.png
+  sizes:
+  - motif2-annotate-800x530.png
+  - motif2-annotate-160x106.png
+  - motif2-annotate-480x318.png
+  thumbnail: motif2-annotate-160x106.png
+- filename: motif2-pointe-annotate
+  original: motif2-pointe-annotate-1600x937.png
+  sizes:
+  - motif2-pointe-annotate-160x94.png
+  - motif2-pointe-annotate-480x281.png
+  - motif2-pointe-annotate-800x468.png
+  thumbnail: motif2-pointe-annotate-160x94.png
+- filename: bordure-annotate
+  original: bordure-annotate-1600x1074.png
+  sizes:
+  - bordure-annotate-800x537.png
+  - bordure-annotate-160x107.png
+  - bordure-annotate-480x322.png
+  thumbnail: bordure-annotate-160x107.png

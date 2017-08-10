@@ -1,0 +1,37 @@
+picture_path: chale-southbay
+pictures:
+- filename: IMG_20170713_151222274-annotate
+  original: IMG_20170713_151222274-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_151222274-annotate-480x640.jpg
+  - IMG_20170713_151222274-annotate-800x1067.jpg
+  - IMG_20170713_151222274-annotate-160x213.jpg
+  thumbnail: IMG_20170713_151222274-annotate-160x213.jpg
+- filename: IMG_20170713_151212954-annotate
+  original: IMG_20170713_151212954-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_151212954-annotate-480x640.jpg
+  - IMG_20170713_151212954-annotate-160x213.jpg
+  - IMG_20170713_151212954-annotate-800x1067.jpg
+  thumbnail: IMG_20170713_151212954-annotate-160x213.jpg
+- filename: IMG_20170713_151228656-annotate
+  original: IMG_20170713_151228656-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_151228656-annotate-800x1067.jpg
+  - IMG_20170713_151228656-annotate-480x640.jpg
+  - IMG_20170713_151228656-annotate-160x213.jpg
+  thumbnail: IMG_20170713_151228656-annotate-160x213.jpg
+- filename: IMG_20170713_151054029_HDR-annotate
+  original: IMG_20170713_151054029_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_151054029_HDR-annotate-800x1067.jpg
+  - IMG_20170713_151054029_HDR-annotate-160x213.jpg
+  - IMG_20170713_151054029_HDR-annotate-480x640.jpg
+  thumbnail: IMG_20170713_151054029_HDR-annotate-160x213.jpg
+- filename: IMG_20170713_151128262-annotate
+  original: IMG_20170713_151128262-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_151128262-annotate-480x640.jpg
+  - IMG_20170713_151128262-annotate-800x1067.jpg
+  - IMG_20170713_151128262-annotate-160x213.jpg
+  thumbnail: IMG_20170713_151128262-annotate-160x213.jpg

@@ -1,0 +1,58 @@
+picture_path: summer-in-sevilla
+pictures:
+- filename: IMG_20170723_113200469-annotate
+  original: IMG_20170723_113200469-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113200469-annotate-160x213.jpg
+  - IMG_20170723_113200469-annotate-480x640.jpg
+  - IMG_20170723_113200469-annotate-800x1067.jpg
+  thumbnail: IMG_20170723_113200469-annotate-160x213.jpg
+- filename: IMG_20170723_113109748-annotate
+  original: IMG_20170723_113109748-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113109748-annotate-800x1067.jpg
+  - IMG_20170723_113109748-annotate-480x640.jpg
+  - IMG_20170723_113109748-annotate-160x213.jpg
+  thumbnail: IMG_20170723_113109748-annotate-160x213.jpg
+- filename: IMG_20170723_113150282-annotate
+  original: IMG_20170723_113150282-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113150282-annotate-480x640.jpg
+  - IMG_20170723_113150282-annotate-160x213.jpg
+  - IMG_20170723_113150282-annotate-800x1067.jpg
+  thumbnail: IMG_20170723_113150282-annotate-160x213.jpg
+- filename: IMG_20170723_113236364-annotate
+  original: IMG_20170723_113236364-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113236364-annotate-800x1067.jpg
+  - IMG_20170723_113236364-annotate-160x213.jpg
+  - IMG_20170723_113236364-annotate-480x640.jpg
+  thumbnail: IMG_20170723_113236364-annotate-160x213.jpg
+- filename: IMG_20170723_113739613-annotate
+  original: IMG_20170723_113739613-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113739613-annotate-480x640.jpg
+  - IMG_20170723_113739613-annotate-800x1067.jpg
+  - IMG_20170723_113739613-annotate-160x213.jpg
+  thumbnail: IMG_20170723_113739613-annotate-160x213.jpg
+- filename: IMG_20170723_113632783-annotate
+  original: IMG_20170723_113632783-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113632783-annotate-480x640.jpg
+  - IMG_20170723_113632783-annotate-800x1067.jpg
+  - IMG_20170723_113632783-annotate-160x213.jpg
+  thumbnail: IMG_20170723_113632783-annotate-160x213.jpg
+- filename: IMG_20170723_113114494-annotate
+  original: IMG_20170723_113114494-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113114494-annotate-160x213.jpg
+  - IMG_20170723_113114494-annotate-480x640.jpg
+  - IMG_20170723_113114494-annotate-800x1067.jpg
+  thumbnail: IMG_20170723_113114494-annotate-160x213.jpg
+- filename: IMG_20170723_113912069-annotate
+  original: IMG_20170723_113912069-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170723_113912069-annotate-800x1067.jpg
+  - IMG_20170723_113912069-annotate-160x213.jpg
+  - IMG_20170723_113912069-annotate-480x640.jpg
+  thumbnail: IMG_20170723_113912069-annotate-160x213.jpg

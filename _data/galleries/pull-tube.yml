@@ -1,0 +1,16 @@
+picture_path: pull-tube
+pictures:
+- filename: IMG_20170518_094317784-annotate
+  original: IMG_20170518_094317784-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170518_094317784-annotate-800x1067.jpg
+  - IMG_20170518_094317784-annotate-480x640.jpg
+  - IMG_20170518_094317784-annotate-160x213.jpg
+  thumbnail: IMG_20170518_094317784-annotate-160x213.jpg
+- filename: IMG_20170518_094219023-annotate
+  original: IMG_20170518_094219023-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170518_094219023-annotate-800x1067.jpg
+  - IMG_20170518_094219023-annotate-160x213.jpg
+  - IMG_20170518_094219023-annotate-480x640.jpg
+  thumbnail: IMG_20170518_094219023-annotate-160x213.jpg

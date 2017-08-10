@@ -1,0 +1,30 @@
+picture_path: chale-wave
+pictures:
+- filename: IMG_20170414_105430122-annotate
+  original: IMG_20170414_105430122-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170414_105430122-annotate-160x213.jpg
+  - IMG_20170414_105430122-annotate-800x1067.jpg
+  - IMG_20170414_105430122-annotate-480x640.jpg
+  thumbnail: IMG_20170414_105430122-annotate-160x213.jpg
+- filename: IMG_20170414_105229365-annotate
+  original: IMG_20170414_105229365-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170414_105229365-annotate-480x640.jpg
+  - IMG_20170414_105229365-annotate-800x1067.jpg
+  - IMG_20170414_105229365-annotate-160x213.jpg
+  thumbnail: IMG_20170414_105229365-annotate-160x213.jpg
+- filename: IMG_20170414_105334450-annotate
+  original: IMG_20170414_105334450-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170414_105334450-annotate-160x213.jpg
+  - IMG_20170414_105334450-annotate-480x640.jpg
+  - IMG_20170414_105334450-annotate-800x1067.jpg
+  thumbnail: IMG_20170414_105334450-annotate-160x213.jpg
+- filename: IMG_20170414_105515302-annotate
+  original: IMG_20170414_105515302-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170414_105515302-annotate-160x213.jpg
+  - IMG_20170414_105515302-annotate-800x1067.jpg
+  - IMG_20170414_105515302-annotate-480x640.jpg
+  thumbnail: IMG_20170414_105515302-annotate-160x213.jpg

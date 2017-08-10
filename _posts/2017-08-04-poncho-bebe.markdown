@@ -12,6 +12,9 @@ tags:
   - 'chevalblanc'
   - 'layette'
   - 'gratuit'
+support:
+  - jquery
+  - gallery
 ---
 
 Bonjour à tous,
@@ -28,13 +31,7 @@ Les modifications apportées au modèle original sont celles-ci:
 * j'ai réalisé une bordure en mailles serrées autour du col, avec le coloris Hortensia,
 * je n'ai utilisé d'un seul "gros" bouton, trouvé lors d'une balade au marché.
 
-{% slider 900 %}
-{% responsive_image path: images/assets/poncho-bebe/IMG_20170804_190725318-annotate.jpg  %}
-{% responsive_image path: images/assets/poncho-bebe/IMG_20170804_190736630-annotate.jpg  %}
-{% responsive_image path: images/assets/poncho-bebe/IMG_20170804_190759948-annotate.jpg  %}
-{% responsive_image path: images/assets/poncho-bebe/IMG_20170804_190824164-annotate.jpg  %}
-{% responsive_image path: images/assets/poncho-bebe/IMG_20170804_190900241-annotate.jpg  %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.poncho-bebe %}
 
 Je vous souhaite un bon tricot et vous dis à très bientôt, pour une création cette fois!
 

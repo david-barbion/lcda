@@ -41,7 +41,7 @@ slug: single
 
   <div class="post-content">
     <div class="featured-post">
-    {% assign image_path = page.asset_path | prepend: 'images/assets/' | append: '/featured.jpg' %}
+    {% assign image_path = page.asset_path | prepend: 'assets/images/' | append: '/featured.jpg' %}
     {% responsive_image_block %}
         path: {{ image_path }}
     {% endresponsive_image_block %}

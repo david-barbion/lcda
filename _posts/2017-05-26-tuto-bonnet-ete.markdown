@@ -12,6 +12,7 @@ tags:
   - 'gratuit'
   - 'ete'
   - 'coton'
+support: [jquery, gallery]
 ---
 
 Un petit tuto ce soir, par ces grosses chaleurs: un bonnet d'été! 100% coton, crochet numéro 3, fil Phil Coton 3 de Phildar.
@@ -20,10 +21,7 @@ Ils sont inspirés d'un tuto en russe trouvé sur le net, gratuit.
 
 Les explications de la rose sur le site de Petite Maille.
 
-{% slider 4:3 %}
-{% responsive_image path: images/assets/bonnet-ete/18673114_616736445202099_5040371812456193055_o.jpg %}
-{% responsive_image path: images/assets/bonnet-ete/18699610_616735025202241_1920120987393172822_o.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.bonnet-ete id_number=1 %}
 
 
 ### Explications
@@ -58,9 +56,6 @@ Vous avez terminé!
 
 Un petit schéma valant toujours mieux qu'un grand discours, je vous ai également joint les explications de la feuille et un petit schéma explicatif sur le démarrage du bonnet ;-)
 
-{% slider 800 %}
-{% responsive_image path: images/assets/bonnet-ete/IMG_20170526_182613868.jpg %}
-{% responsive_image path: images/assets/bonnet-ete/IMG_20170526_182638155.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.bonnet-ete-exp id_number=2 %}
 
 Un bon crochet à toutes :-)

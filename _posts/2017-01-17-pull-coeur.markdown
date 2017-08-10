@@ -10,6 +10,7 @@ tags:
   - 'tricot'
   - 'pull'
   - 'pullcoeur'
+support: [jquery, gallery]
 ---
 
 Dernière réalisation terminée ce jour, le pull cœur de chez Bergère de France. Laine Halo et Angel de BDF, taille 6 ans, aiguilles 3 et 3,5mm.
@@ -19,8 +20,4 @@ Modèle encore en vente chez BDF, pas de partage d'explications pour cette fois-
 
 A très bientôt!
 
-{% slider 800 %}
-{% responsive_image path: images/assets/pull-coeur/IMG_20161213_151256700-annotate.jpg %}
-{% responsive_image path: images/assets/pull-coeur/IMG_20161213_151303413-annotate.jpg %}
-{% responsive_image path: images/assets/pull-coeur/IMG_20161213_163707824-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.pull-coeur %}

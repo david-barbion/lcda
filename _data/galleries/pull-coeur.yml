@@ -1,0 +1,23 @@
+picture_path: pull-coeur
+pictures:
+- filename: IMG_20161213_151256700-annotate
+  original: IMG_20161213_151256700-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20161213_151256700-annotate-800x1067.jpg
+  - IMG_20161213_151256700-annotate-480x640.jpg
+  - IMG_20161213_151256700-annotate-160x213.jpg
+  thumbnail: IMG_20161213_151256700-annotate-160x213.jpg
+- filename: IMG_20161213_163707824-annotate
+  original: IMG_20161213_163707824-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20161213_163707824-annotate-480x640.jpg
+  - IMG_20161213_163707824-annotate-160x213.jpg
+  - IMG_20161213_163707824-annotate-800x1067.jpg
+  thumbnail: IMG_20161213_163707824-annotate-160x213.jpg
+- filename: IMG_20161213_151303413-annotate
+  original: IMG_20161213_151303413-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20161213_151303413-annotate-480x640.jpg
+  - IMG_20161213_151303413-annotate-160x213.jpg
+  - IMG_20161213_151303413-annotate-800x1067.jpg
+  thumbnail: IMG_20161213_151303413-annotate-160x213.jpg

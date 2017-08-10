@@ -1,0 +1,37 @@
+picture_path: pull-manches-courtes-phildar
+pictures:
+- filename: IMG_20170713_150913353_HDR-annotate
+  original: IMG_20170713_150913353_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_150913353_HDR-annotate-160x213.jpg
+  - IMG_20170713_150913353_HDR-annotate-480x640.jpg
+  - IMG_20170713_150913353_HDR-annotate-800x1067.jpg
+  thumbnail: IMG_20170713_150913353_HDR-annotate-160x213.jpg
+- filename: IMG_20170716_194915185-annotate
+  original: IMG_20170716_194915185-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170716_194915185-annotate-800x1067.jpg
+  - IMG_20170716_194915185-annotate-160x213.jpg
+  - IMG_20170716_194915185-annotate-480x640.jpg
+  thumbnail: IMG_20170716_194915185-annotate-160x213.jpg
+- filename: IMG_20170713_150853209_HDR-annotate
+  original: IMG_20170713_150853209_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_150853209_HDR-annotate-800x1067.jpg
+  - IMG_20170713_150853209_HDR-annotate-160x213.jpg
+  - IMG_20170713_150853209_HDR-annotate-480x640.jpg
+  thumbnail: IMG_20170713_150853209_HDR-annotate-160x213.jpg
+- filename: IMG_20170713_150811821_HDR-annotate
+  original: IMG_20170713_150811821_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_150811821_HDR-annotate-480x640.jpg
+  - IMG_20170713_150811821_HDR-annotate-800x1067.jpg
+  - IMG_20170713_150811821_HDR-annotate-160x213.jpg
+  thumbnail: IMG_20170713_150811821_HDR-annotate-160x213.jpg
+- filename: IMG_20170713_150914847_HDR-annotate
+  original: IMG_20170713_150914847_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170713_150914847_HDR-annotate-160x213.jpg
+  - IMG_20170713_150914847_HDR-annotate-800x1067.jpg
+  - IMG_20170713_150914847_HDR-annotate-480x640.jpg
+  thumbnail: IMG_20170713_150914847_HDR-annotate-160x213.jpg

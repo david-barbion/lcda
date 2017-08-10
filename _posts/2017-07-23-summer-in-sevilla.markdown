@@ -14,6 +14,9 @@ tags:
   - 'ete'
   - 'creation'
   - 'summer'
+support:
+  - jquery
+  - gallery
 ---
 
 Bonjour à vous!
@@ -32,16 +35,7 @@ Ce châle est composé de 4 parties :
 
 Les explications sont téléchargeables en PDF à la fin de l'article.
 
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113109748-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113114494-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113150282-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113200469-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113236364-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113632783-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113739613-annotate.jpg %}
-{% responsive_image path: images/assets/summer-in-sevilla/IMG_20170723_113912069-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.summer-in-sevilla id_number=1 %}
 
 ## Points employés
 
@@ -145,24 +139,8 @@ Rang 41 : 2ma, 4ms autour du 1er arceau, 1ms dans la 1ère br, 3ma, passer la 2
 
 Couper et rentrer les fils.
 
-
-
 ## Schémas
 
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif1-pointe-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/motif2-pointe-annotate.png %}
-{% endslider %}
-{% slider 900 %}
-{% responsive_image path: images/assets/summer-in-sevilla/bordure-annotate.png %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.summer-in-sevilla-e id_number=2 %}
 
 Vous pouvez télécharger les explications en PDF [ici]({{ site.url }}/assets/pdf/Summer%20in%20Sevilla.pdf).

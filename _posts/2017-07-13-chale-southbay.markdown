@@ -11,6 +11,7 @@ tags:
   - 'chale'
   - 'southbay'
   - 'ice yarn'
+support: [jquery, gallery]
 ---
 
 Après une assez longue pause, retour aux aiguilles et au crochet avec aujourd'hui, un petit châle.
@@ -21,13 +22,7 @@ Réalisé au crochet 3,5 mm, toujours avec un cake Ice Yarn, 50% acrylique, 50% 
 
 Dimensions 60x140cm une fois bloqué.
 
-{% slider 900 %}
-{% responsive_image path: images/assets/chale-southbay/IMG_20170713_151054029_HDR-annotate.jpg %}
-{% responsive_image path: images/assets/chale-southbay/IMG_20170713_151128262-annotate.jpg %}
-{% responsive_image path: images/assets/chale-southbay/IMG_20170713_151212954-annotate.jpg %}
-{% responsive_image path: images/assets/chale-southbay/IMG_20170713_151222274-annotate.jpg %}
-{% responsive_image path: images/assets/chale-southbay/IMG_20170713_151228656-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.chale-southbay %}
 
 Celui-ci est disponible :-)
 

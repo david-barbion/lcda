@@ -1,0 +1,37 @@
+picture_path: poncho-bebe
+pictures:
+- filename: IMG_20170804_190725318-annotate
+  original: IMG_20170804_190725318-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170804_190725318-annotate-480x640.jpg
+  - IMG_20170804_190725318-annotate-160x213.jpg
+  - IMG_20170804_190725318-annotate-800x1067.jpg
+  thumbnail: IMG_20170804_190725318-annotate-160x213.jpg
+- filename: IMG_20170804_190759948-annotate
+  original: IMG_20170804_190759948-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170804_190759948-annotate-480x360.jpg
+  - IMG_20170804_190759948-annotate-160x120.jpg
+  - IMG_20170804_190759948-annotate-800x600.jpg
+  thumbnail: IMG_20170804_190759948-annotate-160x120.jpg
+- filename: IMG_20170804_190736630-annotate
+  original: IMG_20170804_190736630-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170804_190736630-annotate-800x1067.jpg
+  - IMG_20170804_190736630-annotate-480x640.jpg
+  - IMG_20170804_190736630-annotate-160x213.jpg
+  thumbnail: IMG_20170804_190736630-annotate-160x213.jpg
+- filename: IMG_20170804_190900241-annotate
+  original: IMG_20170804_190900241-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170804_190900241-annotate-160x213.jpg
+  - IMG_20170804_190900241-annotate-480x640.jpg
+  - IMG_20170804_190900241-annotate-800x1067.jpg
+  thumbnail: IMG_20170804_190900241-annotate-160x213.jpg
+- filename: IMG_20170804_190824164-annotate
+  original: IMG_20170804_190824164-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170804_190824164-annotate-480x360.jpg
+  - IMG_20170804_190824164-annotate-160x120.jpg
+  - IMG_20170804_190824164-annotate-800x600.jpg
+  thumbnail: IMG_20170804_190824164-annotate-160x120.jpg

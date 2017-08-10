@@ -12,6 +12,7 @@ tags:
   - 'phildar'
   - 'gratuit'
   - 'coton'
+support: [jquery, gallery]
 ---
 
 Aujourd'hui, je vous présente un petit pull en coton, manches courtes, léger pour les beaux jours.
@@ -22,13 +23,7 @@ Réalisé en doubles-brides au crochet 4mm., uni avec du coton Rico Design coule
 
 J'ai modifié le col, que j'ai crocheté directement sur le pull après coutures, pour éviter d'avoir à coudre des bandes d'encolure qui auraient rendu l'ouvrage plus brouillon.
 
-{% slider 900 %}
-{% responsive_image path: images/assets/pull-manches-courtes-phildar/IMG_20170713_150811821_HDR-annotate.jpg %}
-{% responsive_image path: images/assets/pull-manches-courtes-phildar/IMG_20170713_150853209_HDR-annotate.jpg %}
-{% responsive_image path: images/assets/pull-manches-courtes-phildar/IMG_20170713_150913353_HDR-annotate.jpg %}
-{% responsive_image path: images/assets/pull-manches-courtes-phildar/IMG_20170713_150914847_HDR-annotate.jpg %}
-{% responsive_image path: images/assets/pull-manches-courtes-phildar/IMG_20170716_194915185-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.pull-manches-courtes-phildar %}
 
 Rapide à réaliser, une petite vingtaine d'heures de travail sont à prévoir.
 

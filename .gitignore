@@ -4,6 +4,16 @@ _site
 *-160.jpg
 *-480.jpg
 *-800.jpg
+*-1600.jpg
 *-160.png
 *-480.png
 *-800.png
+*-1600.png
+*-160x*.jpg
+*-480x*.jpg
+*-800x*.jpg
+*-1600x*.jpg
+*-160x*.png
+*-480x*.png
+*-800x*.png
+*-1600x*.png
