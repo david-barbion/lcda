@@ -1,0 +1,44 @@
+picture_path: puzzle-ball-ours-polaire
+pictures:
+- filename: IMG_20170809_195352501-annotate
+  original: IMG_20170809_195352501-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170809_195352501-annotate-800x600.jpg
+  - IMG_20170809_195352501-annotate-160x120.jpg
+  - IMG_20170809_195352501-annotate-480x360.jpg
+  thumbnail: IMG_20170809_195352501-annotate-160x120.jpg
+- filename: IMG_20170809_195130851-annotate
+  original: IMG_20170809_195130851-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170809_195130851-annotate-480x360.jpg
+  - IMG_20170809_195130851-annotate-800x600.jpg
+  - IMG_20170809_195130851-annotate-160x120.jpg
+  thumbnail: IMG_20170809_195130851-annotate-160x120.jpg
+- filename: IMG_20170809_195323822-annotate
+  original: IMG_20170809_195323822-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170809_195323822-annotate-160x120.jpg
+  - IMG_20170809_195323822-annotate-480x360.jpg
+  - IMG_20170809_195323822-annotate-800x600.jpg
+  thumbnail: IMG_20170809_195323822-annotate-160x120.jpg
+- filename: IMG_20170809_195223152-annotate
+  original: IMG_20170809_195223152-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170809_195223152-annotate-480x640.jpg
+  - IMG_20170809_195223152-annotate-160x213.jpg
+  - IMG_20170809_195223152-annotate-800x1067.jpg
+  thumbnail: IMG_20170809_195223152-annotate-160x213.jpg
+- filename: IMG_20170809_195204539-annotate
+  original: IMG_20170809_195204539-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170809_195204539-annotate-480x360.jpg
+  - IMG_20170809_195204539-annotate-800x600.jpg
+  - IMG_20170809_195204539-annotate-160x120.jpg
+  thumbnail: IMG_20170809_195204539-annotate-160x120.jpg
+- filename: IMG_20170809_195335623-annotate
+  original: IMG_20170809_195335623-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170809_195335623-annotate-480x360.jpg
+  - IMG_20170809_195335623-annotate-160x120.jpg
+  - IMG_20170809_195335623-annotate-800x600.jpg
+  thumbnail: IMG_20170809_195335623-annotate-160x120.jpg
