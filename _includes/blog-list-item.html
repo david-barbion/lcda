@@ -1,38 +1,15 @@
 {
   "@type": "ListItem",
   "position": {{ include.index }},
-  "item": {
-    "@type": "BlogPosting",
-    "url": "https://www.lecrochetdargent.fr{{ include.url }}",
-    "headline": "{{ include.title }}",
-    "image": {
-      "@type": "ImageObject",
-      "url": "https://www.lecrochetdargent.fr/assets/resized/800/{{ post.asset_path }}/featured.jpg",
-      "width": "800",
-      "height": "1067"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Hélène"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Le Crochet d'Argent",
-      "sameAs": [
-          "https://twitter.com/crochetdargent",
-          "https://facebook.com/Le-crochet-dargent-456929781182767",
-          "https://framapiaf.org/@crochetdargent"
-      ],
-      "logo": {
-  		  "@type": "ImageObject",
-  		  "url": "https://www.lecrochetdargent.fr/assets/images/logo.png"
-      }
-    },
-    "mainEntityOfPage":{  
-      "@type":"WebPage",
-      "@id":"https://www.lecrochetdargent.fr{{ include.url }}"
-    },
-    "datePublished": "{{ include.date | | date: '%Y-%m-%d' }}",
-    "dateModified": "{{ include.date | | date: '%Y-%m-%d' }}"
+  "url": "https://www.lecrochetdargent.fr{{ include.url }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://www.lecrochetdargent.fr/assets/resized/800/{{ post.asset_path }}/featured.jpg",
+    "width": "800",
+    "height": "1067"
+  },
+  "mainEntityOfPage":{  
+    "@type":"WebPage",
+    "@id":"https://www.lecrochetdargent.fr{{ include.url }}"
   }
 }
