@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Puzzle-ball ours polaire"
-date:   2017-08-10 18:25:00
+date:   2017-08-10 19:25:00
 categories: crochet
 comments: true
 meta_description: "Un doudou ours polaire Amamani Puzzle Ball fait au crochet, modèle Annie's Craft store"
