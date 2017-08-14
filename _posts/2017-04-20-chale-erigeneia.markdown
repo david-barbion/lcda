@@ -13,6 +13,7 @@ tags:
   - 'degrade'
   - 'ecru'
   - 'violet'
+support: [jquery, gallery]
 ---
 
 On continue dans la série des châles, et étoles: voici **Erigeneïa**, châle dégradé violet/vert/écru en 50% coton 50% acrylique, bordure en lin, coton et acrylique.
@@ -21,12 +22,7 @@ Fait au crochet 4. Dimensions: 186 cm de large sur 86 cm de hauteur.
 
 Voici le lien du patron gratuit à télécharger: <http://www.ravelry.com/patterns/library/erigeneia>.
 
-{% slider 900 %}
-{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125555665-annotate.jpg %}
-{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125625713-annotate.jpg %}
-{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125723661-annotate.jpg %}
-{% responsive_image path: assets/images/chale-erigeneia/IMG_20170420_125817142-annotate.jpg %}
-{% endslider %}
+{% include gallery-layout.html gallery=site.data.galleries.chale-erigeneia %}
 
 Un grand châle au coloris printanier pour réchauffer vos soirées!
 
