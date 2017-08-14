@@ -20,6 +20,7 @@ author:
 github: https://github.com/nandomoreirame/zetsu
 disqus_shortname: "le-crochet-dargent"
 google_analytics: UA-100414652-1
+facebookapps_id: 1617415464944797
 
 paginate: 5
 comments: true
@@ -99,5 +100,3 @@ responsive_image:
   extra_images:
     - assets/images/*/*
 
-
-iis_slider_array: []
