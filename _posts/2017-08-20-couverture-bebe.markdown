@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Couverture bébé"
-date:   2017-08-20 13:34:00
+date:   2017-08-20 20:34:00
 categories: ['création', 'tricot']
 comments: true
 meta_description: 'Une couverture au tricot pour bébé, très girly, coloris parme, avec des motifs coeurs'
