@@ -44,7 +44,7 @@ Il vous faudra:
 
 La couverture est composée d'une bordure au point de riz (5 rangs au début et à la fin, et 5 m. de chaque côté), et de carrés de jersey alternés afin de composer le motif.  
 
-Chaque carré comporte 4 rangs de point jersey, un coeur de 13 rangs fait en m. inversées, 4 rangs de jersey, soit 21 rangs (voir schéma ci-dessous).  
+Chaque carré comporte 4 rangs de point jersey, un coeur de 13 rangs fait en m. inversées, 4 rangs de jersey, soit 21 rangs (voir [schéma]({{ '/assets/pdf/grille-couverture-coeur.pdf'| prepend:site.url }})).  
 
 Monter souplement 110 mailles et tricoter 5 rangs au point de riz.
 
