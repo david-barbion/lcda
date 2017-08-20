@@ -1,0 +1,30 @@
+picture_path: couverture-bebe
+pictures:
+- filename: IMG_20170820_151823170-annotate
+  original: IMG_20170820_151823170-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170820_151823170-annotate-480x360.jpg
+  - IMG_20170820_151823170-annotate-800x600.jpg
+  - IMG_20170820_151823170-annotate-160x120.jpg
+  thumbnail: IMG_20170820_151823170-annotate-160x120.jpg
+- filename: IMG_20170820_151727097-annotate
+  original: IMG_20170820_151727097-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170820_151727097-annotate-480x640.jpg
+  - IMG_20170820_151727097-annotate-160x213.jpg
+  - IMG_20170820_151727097-annotate-800x1067.jpg
+  thumbnail: IMG_20170820_151727097-annotate-160x213.jpg
+- filename: IMG_20170820_151711289-annotate
+  original: IMG_20170820_151711289-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20170820_151711289-annotate-160x120.jpg
+  - IMG_20170820_151711289-annotate-480x360.jpg
+  - IMG_20170820_151711289-annotate-800x600.jpg
+  thumbnail: IMG_20170820_151711289-annotate-160x120.jpg
+- filename: IMG_2501-annotate
+  original: IMG_2501-annotate-1600x1067.jpg
+  sizes:
+  - IMG_2501-annotate-160x107.jpg
+  - IMG_2501-annotate-800x533.jpg
+  - IMG_2501-annotate-480x320.jpg
+  thumbnail: IMG_2501-annotate-160x107.jpg
