@@ -31,4 +31,11 @@
     {% endresponsive_image_block %}
     {{ post.content | strip_html | truncatewords: 30 }} <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Lire plus &raquo;</a>
   </div>
+  <div class="post-footer">
+    <ul class="tags">
+    {% for cat in post.categories %}
+    <li>{{ cat }}{% if forloop.last != true %},{% endif %}</li>
+    {% endfor %}
+    </ul>
+  </div>
 </article>

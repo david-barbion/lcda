@@ -2,7 +2,7 @@
 layout: post
 title:  "Pull tube"
 date:   2017-05-18 15:47:00
-categories: tricot
+categories: ['création', 'tricot']
 comments: true
 meta_description: 'Un tutoriel de pull Aquasun à tricoter, avec explications libres'
 asset_path: 'pull-tube'

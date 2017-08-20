@@ -9,7 +9,7 @@ asset_path: 'pull-coeur'
 tags:
   - 'tricot'
   - 'pull'
-  - 'pullcoeur'
+  - 'coeur'
 support: [jquery, gallery]
 ---
 
