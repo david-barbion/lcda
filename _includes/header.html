@@ -6,6 +6,7 @@
 
       <h1 class="title">
         <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        {% if page.paginate.category %} - {{ page.paginate.category }}{% endif %}
       </h1>
 
       <nav class="navbar">
@@ -17,7 +18,7 @@
 
         <ul class="nav">
           {% for page in site.pages %}
-            {% if page.title and page.title != 'Home' %}
+            {% if page.slug and page.slug != 'home' %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
