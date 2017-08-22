@@ -29,7 +29,7 @@
                      {% responsive_image_block %}
                         path: {{ image_path }}
                      {% endresponsive_image_block %}
-
+                  {{ post.meta_description | strip_html | truncatewords: 20 }}
               </div></a>
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
