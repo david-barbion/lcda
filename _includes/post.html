@@ -1,6 +1,13 @@
 <article class="post card container featured">
   <header class="post-header">
-    <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+    <div><h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1></div>
+    <div class="post-tags">
+      <ul class="tags">
+      {% for cat in post.categories %}
+      <li><a href="{{ site.baseurl }}/categories/{{ cat | replace: 'é', 'e'  }}">{{ cat }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
     <span class="post-meta">
       <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">
         {% assign m = post.date | date: "%-m" %}
@@ -29,13 +36,6 @@
     {% responsive_image_block %}
         path: {{ image_path }}
     {% endresponsive_image_block %}
-    {{ post.content | strip_html | truncatewords: 30 }} <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Lire plus &raquo;</a>
-  </div>
-  <div class="post-footer">
-    <ul class="tags">
-    {% for cat in post.categories %}
-    <li>{{ cat }}{% if forloop.last != true %},{% endif %}</li>
-    {% endfor %}
-    </ul>
+    {{ post.content | strip_html | truncatewords: 50 }} <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Lire plus &raquo;</a>
   </div>
 </article>
