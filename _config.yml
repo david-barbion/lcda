@@ -22,9 +22,16 @@ disqus_shortname: "le-crochet-dargent"
 google_analytics: UA-100414652-1
 facebookapps_id: 1617415464944797
 
-paginate: 5
+# jekyll-paginate
+#paginate: 5
+#paginate_path: "/page/:num"
+# octopress-paginate
+pagination:
+  per_page: 5
+  limit: false
+  permalink: "/page/:num"
+
 comments: true
-paginate_path: "/page/:num"
 
 sass:
   style: :compressed
@@ -35,7 +42,7 @@ markdown  : kramdown
 permalink : /:title/
 excerpt_separator: "<!--more-->"
 plugins: 
-  - jekyll-paginate
+  - octopress-paginate
   - jekyll-feed
   - jekyll-responsive-image
   - jekyll/figure
