@@ -1,0 +1,30 @@
+picture_path: a-mermaid-tale
+pictures:
+- filename: IMG_2512
+  original: IMG_2512-1600x2400.jpg
+  sizes:
+  - IMG_2512-480x720.jpg
+  - IMG_2512-160x240.jpg
+  - IMG_2512-800x1200.jpg
+  thumbnail: IMG_2512-160x240.jpg
+- filename: IMG_2525
+  original: IMG_2525-1600x2400.jpg
+  sizes:
+  - IMG_2525-480x720.jpg
+  - IMG_2525-800x1200.jpg
+  - IMG_2525-160x240.jpg
+  thumbnail: IMG_2525-160x240.jpg
+- filename: IMG_2533
+  original: IMG_2533-1600x1067.jpg
+  sizes:
+  - IMG_2533-480x320.jpg
+  - IMG_2533-800x533.jpg
+  - IMG_2533-160x107.jpg
+  thumbnail: IMG_2533-160x107.jpg
+- filename: IMG_2535
+  original: IMG_2535-1600x1067.jpg
+  sizes:
+  - IMG_2535-480x320.jpg
+  - IMG_2535-160x107.jpg
+  - IMG_2535-800x533.jpg
+  thumbnail: IMG_2535-160x107.jpg

@@ -1,0 +1,44 @@
+picture_path: a-mermaid-tale
+pictures:
+- filename: schema-commencement
+  original: schema-commencement-800x405.png
+  sizes:
+  - schema-commencement-160x81.png
+  - schema-commencement-480x243.png
+  thumbnail: schema-commencement-160x81.png
+  title: 'Partie 1, commencement'
+- filename: schema-rg-8-a-18
+  original: schema-rg-8-a-18-800x282.png
+  sizes:
+  - schema-rg-8-a-18-480x169.png
+  - schema-rg-8-a-18-160x56.png
+  thumbnail: schema-rg-8-a-18-160x56.png
+  title: 'Partie 1, rang 8 à 18'
+- filename: schema-rg-19-a-34
+  original: schema-rg-19-a-34-800x314.png
+  sizes:
+  - schema-rg-19-a-34-480x188.png
+  - schema-rg-19-a-34-160x63.png
+  thumbnail: schema-rg-19-a-34-160x63.png
+  title: 'Partie 1, rang 19 à 34'
+- filename: schema-motif-central
+  original: schema-motif-central-800x424.png
+  sizes:
+  - schema-motif-central-160x85.png
+  - schema-motif-central-480x254.png
+  thumbnail: schema-motif-central-160x85.png
+  title: 'Partie 2, motif central'
+- filename: schema-point-fantaisie
+  original: schema-point-fantaisie-800x141.png
+  sizes:
+  - schema-point-fantaisie-160x28.png
+  - schema-point-fantaisie-480x84.png
+  thumbnail: schema-point-fantaisie-160x28.png
+  title: 'Partie 2, point fantaisie'
+- filename: schema-bordure
+  original: schema-bordure-800x118.png
+  sizes:
+  - schema-bordure-160x24.png
+  - schema-bordure-480x71.png
+  thumbnail: schema-bordure-160x24.png
+  title: 'Bordure'

@@ -1,0 +1,44 @@
+picture_path: a-mermaid-tale
+pictures:
+- filename: IMG_20170902_121423748-annotate
+  original: IMG_20170902_121423748-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170902_121423748-annotate-800x1067.jpg
+  - IMG_20170902_121423748-annotate-480x640.jpg
+  - IMG_20170902_121423748-annotate-160x213.jpg
+  thumbnail: IMG_20170902_121423748-annotate-160x213.jpg
+- filename: IMG_20170902_121813562-annotate
+  original: IMG_20170902_121813562-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170902_121813562-annotate-160x213.jpg
+  - IMG_20170902_121813562-annotate-800x1067.jpg
+  - IMG_20170902_121813562-annotate-480x640.jpg
+  thumbnail: IMG_20170902_121813562-annotate-160x213.jpg
+- filename: IMG_20170902_121248342-annotate
+  original: IMG_20170902_121248342-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170902_121248342-annotate-800x1067.jpg
+  - IMG_20170902_121248342-annotate-480x640.jpg
+  - IMG_20170902_121248342-annotate-160x213.jpg
+  thumbnail: IMG_20170902_121248342-annotate-160x213.jpg
+- filename: IMG_20170902_121855980-annotate
+  original: IMG_20170902_121855980-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170902_121855980-annotate-160x213.jpg
+  - IMG_20170902_121855980-annotate-800x1067.jpg
+  - IMG_20170902_121855980-annotate-480x640.jpg
+  thumbnail: IMG_20170902_121855980-annotate-160x213.jpg
+- filename: IMG_2521
+  original: IMG_2521-1600x2400.jpg
+  sizes:
+  - IMG_2521-480x720.jpg
+  - IMG_2521-160x240.jpg
+  - IMG_2521-800x1200.jpg
+  thumbnail: IMG_2521-160x240.jpg
+- filename: IMG_2520
+  original: IMG_2520-1600x2400.jpg
+  sizes:
+  - IMG_2520-480x720.jpg
+  - IMG_2520-800x1200.jpg
+  - IMG_2520-160x240.jpg
+  thumbnail: IMG_2520-160x240.jpg

@@ -1,0 +1,17 @@
+picture_path: a-mermaid-tale
+pictures:
+- filename: IMG_2538
+  original: IMG_2538-1600x1067.jpg
+  sizes:
+  - IMG_2538-800x533.jpg
+  - IMG_2538-480x320.jpg
+  - IMG_2538-160x107.jpg
+  thumbnail: IMG_2538-160x107.jpg
+- filename: IMG_2514
+  original: IMG_2514-1600x2400.jpg
+  sizes:
+  - IMG_2514-800x1200.jpg
+  - IMG_2514-480x720.jpg
+  - IMG_2514-160x240.jpg
+  thumbnail: IMG_2514-160x240.jpg
+
