@@ -23,7 +23,7 @@ support:
 
 Bonjour à tous,
 
-Je vous présente auourd'hui le deuxième châle en création originale Le Crochet d'Argent: A Mermaid Tale.  
+Je vous présente aujourd'hui le deuxième châle en création originale Le Crochet d'Argent: A Mermaid Tale.  
 Il s'agit d'un châle qui se crochète au départ comme un demi-cercle et se termine en pointe!  
 Réalisé avec un magnifique fil de chez Freïa qui me faisait de l'oeil depuis juillet 2016 déjà et que j'ai finalement commandé!  
 Retrouvez dans l'article le tutoriel gratuit, en écrit et en schémas ;-) !  
