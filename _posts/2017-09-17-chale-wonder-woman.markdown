@@ -4,7 +4,7 @@ title:  "Châle Wonder Woman (par Carissa Browning)"
 date:   2017-09-17 07:59:00
 categories: ['crochet']
 comments: true
-meta_description: "Un châle Wonder Woman au crochet"
+meta_description: "Un châle Wonder Woman au crochet avec tutoriel gratuit"
 asset_path: 'chale-wonder-woman'
 tags:
   - 'crochet'
@@ -25,8 +25,9 @@ Il s'agit de la version crochet de l'écharpe/châle Wonder Woman (WONDER WOMAN 
 Je l'ai réalisé ici avec le fil Baby Merino de chez DROPS Design et un crochet 3,5mm; vous aurez besoin de 3 pelotes (soit 525m) de chaque coloris pour la grande taille.  
 Le châle terminé et bloqué mesure ici 170x60 cm.
 
-Je vous renvoie à la page Ravelry de Carissa ([Carissa Browning](http://www.ravelry.com/patterns/library/wonder-woman-wrap-crochet)) pour télécharger le PDF en français.  
-Je vous invite également à [visiter sa page web](http://www.carissaknits.com/), vous pourrez vous y procurer, entre autres, les explications de magnifiques châles inspirés par les dinosaures!
+Voici le [PDF]({{ site.url }}/assets/pdf/Wonder-Woman-Wrap_crochet1.pdf) de la version française
+
+Je vous invite également à [visiter sa page web](http://www.carissaknits.com/) et [sa page Ravelry](http://www.ravelry.com/designers/carissa-browning), vous pourrez vous y procurer, entre autres, les explications de magnifiques châles inspirés par les dinosaures!
 
 Pour réaliser ce châle il vous faut:
 * 525m de fil de chaque coloris (ici rouge et jaune)
@@ -36,3 +37,5 @@ Pour réaliser ce châle il vous faut:
 {% include gallery-layout.html gallery=site.data.galleries.chale-wonder-woman %}
 
 Je vous souhaite beaucoup de plaisir à réaliser ce châle et vous dit à bientôt pour de nouvelles réalisations.
+
+LN
