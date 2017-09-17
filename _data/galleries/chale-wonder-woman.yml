@@ -1,0 +1,51 @@
+picture_path: chale-wonder-woman
+pictures:
+- filename: IMG_20170917_105325721-annotate
+  original: IMG_20170917_105325721-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170917_105325721-annotate-160x213.jpg
+  - IMG_20170917_105325721-annotate-800x1067.jpg
+  - IMG_20170917_105325721-annotate-480x640.jpg
+  thumbnail: IMG_20170917_105325721-annotate-160x213.jpg
+- filename: IMG_20170917_105659645-annotate
+  original: IMG_20170917_105659645-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170917_105659645-annotate-160x213.jpg
+  - IMG_20170917_105659645-annotate-800x1067.jpg
+  - IMG_20170917_105659645-annotate-480x640.jpg
+  thumbnail: IMG_20170917_105659645-annotate-160x213.jpg
+- filename: IMG_20170917_105828294_HDR-annotate
+  original: IMG_20170917_105828294_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170917_105828294_HDR-annotate-160x213.jpg
+  - IMG_20170917_105828294_HDR-annotate-480x640.jpg
+  - IMG_20170917_105828294_HDR-annotate-800x1067.jpg
+  thumbnail: IMG_20170917_105828294_HDR-annotate-160x213.jpg
+- filename: IMG_20170917_105445008-annotate
+  original: IMG_20170917_105445008-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170917_105445008-annotate-480x640.jpg
+  - IMG_20170917_105445008-annotate-160x213.jpg
+  - IMG_20170917_105445008-annotate-800x1067.jpg
+  thumbnail: IMG_20170917_105445008-annotate-160x213.jpg
+- filename: IMG_20170917_105739058-annotate
+  original: IMG_20170917_105739058-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170917_105739058-annotate-480x640.jpg
+  - IMG_20170917_105739058-annotate-160x213.jpg
+  - IMG_20170917_105739058-annotate-800x1067.jpg
+  thumbnail: IMG_20170917_105739058-annotate-160x213.jpg
+- filename: IMG_20170917_105539925-annotate
+  original: IMG_20170917_105539925-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170917_105539925-annotate-800x1067.jpg
+  - IMG_20170917_105539925-annotate-480x640.jpg
+  - IMG_20170917_105539925-annotate-160x213.jpg
+  thumbnail: IMG_20170917_105539925-annotate-160x213.jpg
+- filename: IMG_20170917_105150059_HDR-annotate
+  original: IMG_20170917_105150059_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170917_105150059_HDR-annotate-480x640.jpg
+  - IMG_20170917_105150059_HDR-annotate-800x1067.jpg
+  - IMG_20170917_105150059_HDR-annotate-160x213.jpg
+  thumbnail: IMG_20170917_105150059_HDR-annotate-160x213.jpg
