@@ -37,6 +37,22 @@
 <script src="/bower_components/imagesloaded/imagesloaded.pkgd.min.js"></script>
 {% endif %}
 
+<!-- i18n -->
+<meta http-equiv="Content-Language" content="{{site.active_lang|replace:'us','en'}}">
+
+<link rel="alternate"
+      hreflang="{{site.default_lang}}"
+      href="https://www.lecrochetdargent.fr{{page.permalink}}" />
+{% for lang in site.languages %}
+  {% if lang == site.default_lang %}
+    {% continue %}
+  {% endif %}
+  <link rel="alternate"
+            hreflang="{{lang | replace:'us','en'}}"
+            href="https://www.lecrochetdargent.fr/{{lang | replace:'us','en'}}{{page.permalink}}" />
+{% endfor %}
+
+
 <!-- favicon -->
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
