@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Un été à Séville"
 date:   2017-07-24 06:46:00
 categories: ['création', 'crochet']
@@ -36,6 +37,7 @@ Ce châle est composé de 4 parties :
 Les explications sont téléchargeables en PDF à la fin de l'article.
 
 {% include gallery-layout.html gallery=site.data.galleries.summer-in-sevilla id_number=1 %}
+lang: fr
 
 ## Points employés
 
@@ -142,5 +144,6 @@ Couper et rentrer les fils.
 ## Schémas
 
 {% include gallery-layout.html gallery=site.data.galleries.summer-in-sevilla-e id_number=2 %}
+lang: fr
 
 Vous pouvez télécharger les explications en PDF [ici]({{ site.url }}/assets/pdf/Summer%20in%20Sevilla.pdf).

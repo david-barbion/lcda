@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Doudou Yoshi"
 date:   2017-05-19 19:01:00
 categories: ['création', 'crochet']
@@ -23,6 +24,7 @@ Alors voici **Doudou-Yoshi**!
 Création réalisée ce jour, fil coton DMC Natura, crochet 2,5mm!
 
 {% include gallery-layout.html gallery=site.data.galleries.doudou-yoshi %}
+lang: fr
 
 ### Explications
 

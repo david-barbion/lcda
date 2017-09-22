@@ -1,6 +1,6 @@
 ---
 layout: post-en
-title:  "A mermaid tale, US version"
+title:  "A mermaid tale"
 date:   2017-09-20 17:22:00
 categories: ['crochet']
 comments: true
@@ -18,6 +18,7 @@ tags:
 support:
   - jquery
   - gallery
+lang: en
 ---
 
 Hi!

@@ -13,6 +13,7 @@ tags:
   - 'summer'
   - 'sevilla'
 support: [jquery, gallery]
+lang: en
 ---
 
 Hello!

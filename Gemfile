@@ -8,6 +8,7 @@ group :jekyll_plugins do
      gem "jekyll-figure"
      gem "jekyll-sitemap"
      gem "octopress-paginate", :git => 'https://github.com/egeis/paginate'
+     gem "jekyll-polyglot"
 end
 
 

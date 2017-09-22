@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Châle Erigeneïa (2)"
 date:   2017-05-03 13:31:08
 categories: crochet
@@ -21,5 +22,6 @@ Fil cake 50% coton, 50% acrylique, bordure matière contrastante 100% acrylique.
 Ce châle est destiné à Charlotte, en échange d'un magnifique attrape-rêve à voir sur sa page: <https://www.facebook.com/artashc/?fref=ts>
 
 {% include gallery-layout.html gallery=site.data.galleries.chale-erigeneia2 %}
+lang: fr
 
 Merci à elle!

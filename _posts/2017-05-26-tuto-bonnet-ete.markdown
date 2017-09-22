@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Bonnet d'été"
 date:   2017-05-26 18:57:00
 categories: crochet
@@ -22,6 +23,7 @@ Ils sont inspirés d'un tuto en russe trouvé sur le net, gratuit.
 Les explications de la rose sur le site de Petite Maille.
 
 {% include gallery-layout.html gallery=site.data.galleries.bonnet-ete id_number=1 %}
+lang: fr
 
 
 ### Explications
@@ -57,5 +59,6 @@ Vous avez terminé!
 Un petit schéma valant toujours mieux qu'un grand discours, je vous ai également joint les explications de la feuille et un petit schéma explicatif sur le démarrage du bonnet ;-)
 
 {% include gallery-layout.html gallery=site.data.galleries.bonnet-ete-exp id_number=2 %}
+lang: fr
 
 Un bon crochet à toutes :-)

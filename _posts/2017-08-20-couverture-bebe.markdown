@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Couverture bébé"
 date:   2017-08-20 20:34:00
 categories: ['création', 'tricot']
@@ -61,6 +62,7 @@ Rentrer les fils avec l'aiguille à laine, laver l'ouvrage et le sécher bien à
 Et voilà, grâce à vous une petite demoiselle dormira bien au chaud dans son berceau ;-)
 
 {% include gallery-layout.html gallery=site.data.galleries.couverture-bebe %}
+lang: fr
 
 Je vous souhaite un bon tricot et vous dis à bientôt pour de nouvelles créations!
 

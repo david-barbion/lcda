@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Pull manches courtes modèle Phildar"
 date:   2017-07-16 16:38:00
 categories: crochet
@@ -24,6 +25,7 @@ Réalisé en doubles-brides au crochet 4mm., uni avec du coton Rico Design coule
 J'ai modifié le col, que j'ai crocheté directement sur le pull après coutures, pour éviter d'avoir à coudre des bandes d'encolure qui auraient rendu l'ouvrage plus brouillon.
 
 {% include gallery-layout.html gallery=site.data.galleries.pull-manches-courtes-phildar %}
+lang: fr
 
 Rapide à réaliser, une petite vingtaine d'heures de travail sont à prévoir.
 

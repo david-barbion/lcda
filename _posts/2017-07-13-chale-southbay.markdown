@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Châle South Bay"
 date:   2017-07-13 16:38:00
 categories: crochet
@@ -23,6 +24,7 @@ Réalisé au crochet 3,5 mm, toujours avec un cake Ice Yarn, 50% acrylique, 50% 
 Dimensions 60x140cm une fois bloqué.
 
 {% include gallery-layout.html gallery=site.data.galleries.chale-southbay %}
+lang: fr
 
 Celui-ci est disponible :-)
 

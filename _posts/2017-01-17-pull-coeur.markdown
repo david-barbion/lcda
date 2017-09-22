@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Pull cœur"
 date:   2017-01-17 15:30:08
 categories: tricot
@@ -21,3 +22,4 @@ Modèle encore en vente chez BDF, pas de partage d'explications pour cette fois-
 A très bientôt!
 
 {% include gallery-layout.html gallery=site.data.galleries.pull-coeur %}
+lang: fr

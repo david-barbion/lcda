@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: fr
 title:  "Joli poncho pour bébé"
 date:   2017-08-04 19:25:00
 categories: tricot
@@ -32,6 +33,7 @@ Les modifications apportées au modèle original sont celles-ci:
 * je n'ai utilisé d'un seul "gros" bouton, trouvé lors d'une balade au marché.
 
 {% include gallery-layout.html gallery=site.data.galleries.poncho-bebe %}
+lang: fr
 
 Je vous souhaite un bon tricot et vous dis à très bientôt, pour une création cette fois!
 
