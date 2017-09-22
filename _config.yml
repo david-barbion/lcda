@@ -49,7 +49,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-polyglot
 
-languages: ["en", "fr"]
+languages: ["fr", "us"]
 default_lang: "fr"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true

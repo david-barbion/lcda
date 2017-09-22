@@ -18,7 +18,7 @@ tags:
 support:
   - jquery
   - gallery
-lang: en
+lang: us
 ---
 
 Hi!
