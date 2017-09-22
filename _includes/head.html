@@ -42,14 +42,14 @@
 
 <link rel="alternate"
       hreflang="{{site.default_lang}}"
-      href="https://www.lecrochetdargent.fr{{page.permalink}}" />
+      href="https://www.lecrochetdargent.fr{{page.permalink |replace:'us/',''}}" />
 {% for lang in site.languages %}
   {% if lang == site.default_lang %}
     {% continue %}
   {% endif %}
   <link rel="alternate"
             hreflang="{{lang | replace:'us','en'}}"
-            href="https://www.lecrochetdargent.fr/{{lang | replace:'us','en'}}{{page.permalink}}" />
+            href="https://www.lecrochetdargent.fr/{{lang | replace:'us','en'}}{{page.permalink |replace:'us/',''}}" />
 {% endfor %}
 
 
