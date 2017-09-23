@@ -33,7 +33,12 @@
 
     {% if page.slug == 'home' %}
       <h2 class="txt-center">
-        Bienvenue sur <strong>{{ site.title }}</strong>!
+        {% case site.active_lang %}
+        {% when 'us' %}
+          Welcome to <strong>{{ site.title }}</strong>!
+        {% else %}
+          Bienvenue sur <strong>{{ site.title }}</strong>!
+        {% endcase %}
       </h2>
     {% endif %}
 
