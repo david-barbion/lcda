@@ -1,0 +1,30 @@
+picture_path: bonnet-hermione
+pictures:
+- filename: IMG_20170922_183922268-annotate
+  original: IMG_20170922_183922268-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170922_183922268-annotate-800x1067.jpg
+  - IMG_20170922_183922268-annotate-160x213.jpg
+  - IMG_20170922_183922268-annotate-480x640.jpg
+  thumbnail: IMG_20170922_183922268-annotate-160x213.jpg
+- filename: IMG_20170922_183901230-annotate
+  original: IMG_20170922_183901230-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170922_183901230-annotate-480x640.jpg
+  - IMG_20170922_183901230-annotate-160x213.jpg
+  - IMG_20170922_183901230-annotate-800x1067.jpg
+  thumbnail: IMG_20170922_183901230-annotate-160x213.jpg
+- filename: IMG_20170922_183913604-annotate
+  original: IMG_20170922_183913604-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170922_183913604-annotate-800x1067.jpg
+  - IMG_20170922_183913604-annotate-480x640.jpg
+  - IMG_20170922_183913604-annotate-160x213.jpg
+  thumbnail: IMG_20170922_183913604-annotate-160x213.jpg
+- filename: IMG_20170922_183935336-annotate
+  original: IMG_20170922_183935336-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20170922_183935336-annotate-480x640.jpg
+  - IMG_20170922_183935336-annotate-800x1067.jpg
+  - IMG_20170922_183935336-annotate-160x213.jpg
+  thumbnail: IMG_20170922_183935336-annotate-160x213.jpg
