@@ -51,7 +51,7 @@ plugins:
 
 languages: ["fr", "us"]
 default_lang: "fr"
-exclude_from_localization: ["javascript", "images", "css"]
+exclude_from_localization: ["javascript", "images", "css", "assets"]
 parallel_localization: true
 
 defaults:
