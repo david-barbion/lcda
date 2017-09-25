@@ -30,7 +30,6 @@ Vous pouvez néanmoins les retrouver (en anglais) sur le site [Annie's Craft Sto
 De nouvelles créations sont en cours, alors je vous dis à très bientôt sur Le Crochet d'Argent!
 
 {% include gallery-layout.html gallery=site.data.galleries.puzzle-ball-ours-polaire %}
-lang: fr
 
 Je vous souhaite une très belle journée!
 
