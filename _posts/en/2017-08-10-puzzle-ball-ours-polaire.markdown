@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: us
+lang: en
 title:  "Polar bear puzzle-ball"
 date:   2017-08-10 19:25:00
 categories: crochet

@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: us
+lang: en
 title:  "Hermione's hat"
 date:   2017-09-23 07:59:00
 categories: ['tricot']
