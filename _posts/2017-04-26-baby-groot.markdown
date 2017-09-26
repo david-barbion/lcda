@@ -22,6 +22,5 @@ Crochet 3,5 et fil acrylique, bras articulés pour pouvoir danser ;-)
 Sur un tuto gratuit, mais en anglais, dont voici le lien: <http://blog.twinkiechan.com/2014/08/13/free-crochet-pattern-potted-baby-groot-from-guardians-of-the-galaxy/>
 
 {% include gallery-layout.html gallery=site.data.galleries.baby-groot %}
-lang: fr
 
 Bon crochet à vous <3

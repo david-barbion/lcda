@@ -20,7 +20,6 @@ tags:
 support:
   - jquery
   - gallery
-lang: fr
 ---
 
 Bonjour à tous,
@@ -31,7 +30,6 @@ Réalisé avec un magnifique fil de chez Freïa qui me faisait de l'oeil depuis 
 Retrouvez dans l'article le tutoriel gratuit, en écrit et en schémas ;-) !  
 
 {% include gallery-layout.html gallery=site.data.galleries.a-mermaid-tale-1 id_number=1 %}
-lang: fr
 
 A Mermaid Tale est un châle qui se crochète d’abord en demi-cercle et se termine en pointe.  
 Les explications se feront en 2 parties : la première pour faire le demi-cercle, la seconde pour créer la pointe et faire la bordure.  
@@ -109,7 +107,6 @@ Rg25 : 3ma, 1br dans chaque br
 Rgs 26 à 34 : Répéter les 3 derniers rgs encore 3 fois
 
 {% include gallery-layout.html gallery=site.data.galleries.a-mermaid-tale-closeup-1 id_number=2 %}
-lang: fr
 
 ## Explications, partie 2
 
@@ -134,7 +131,6 @@ Répéter alors encore une fois un rang de point fantaisie en faisant dans cet a
 Vous avez ainsi formé la pointe du châle.
 
 {% include gallery-layout.html gallery=site.data.galleries.a-mermaid-tale-closeup-2 id_number=3 %}
-lang: fr
 
 ## Explications, bordure
 
@@ -146,11 +142,9 @@ Dernier rg : 3ma/4br dans la première m, \*passer 3m, 7br dans la m suivante, 
 Procéder au blocage et portez !
 
 {% include gallery-layout.html gallery=site.data.galleries.a-mermaid-tale-2 id_number=4 %}
-lang: fr
 
 ## Schémas
 
 {% include gallery-layout.html gallery=site.data.galleries.a-mermaid-tale-schema id_number=5 %}
-lang: fr
 
 Vous pouvez télécharger les explications en PDF [ici]({{ site.url }}/assets/pdf/A%20mermaid%20tale.pdf).

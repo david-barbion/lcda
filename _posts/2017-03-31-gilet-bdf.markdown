@@ -20,6 +20,5 @@ Dernier tricot pour la grande, issu du magazine BDF n°174.
 Fil Goomy 50 couleur chair, mais changement de teinte pour le fil Lumiac, ici en écru et non en beige.
 
 {% include gallery-layout.html gallery=site.data.galleries.gilet-bdf %}
-lang: fr
 
 Bon tricot!

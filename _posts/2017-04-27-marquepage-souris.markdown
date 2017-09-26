@@ -24,6 +24,5 @@ Fil en coton Coton3 de Phildar, crochet n°3.
 Tuto en anglais par ici: <http://www.supergurumi.com/amigurumi-crochet-rat-bookmark>
 
 {% include gallery-layout.html gallery=site.data.galleries.marquepage-souris %}
-lang: fr
 
 Bon crochet!

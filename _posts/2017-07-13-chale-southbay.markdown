@@ -24,7 +24,6 @@ Réalisé au crochet 3,5 mm, toujours avec un cake Ice Yarn, 50% acrylique, 50% 
 Dimensions 60x140cm une fois bloqué.
 
 {% include gallery-layout.html gallery=site.data.galleries.chale-southbay %}
-lang: fr
 
 Celui-ci est disponible :-)
 

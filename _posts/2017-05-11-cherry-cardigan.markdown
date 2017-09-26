@@ -29,7 +29,6 @@ Celui-ci est légèrement modifié à ma sauce:
 * le lien est fait au crochet n°5 (37 mailles en l'air et 36 mailles coulées) avec un fil doublé, et non au tricot.
 
 {% include gallery-layout.html gallery=site.data.galleries.cherry-cardigan %}
-lang: fr
 
 Je vous souhaite un très bon tricot!
 

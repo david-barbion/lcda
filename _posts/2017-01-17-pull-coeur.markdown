@@ -22,4 +22,3 @@ Modèle encore en vente chez BDF, pas de partage d'explications pour cette fois-
 A très bientôt!
 
 {% include gallery-layout.html gallery=site.data.galleries.pull-coeur %}
-lang: fr

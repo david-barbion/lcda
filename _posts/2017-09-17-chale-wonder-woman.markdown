@@ -36,7 +36,6 @@ Pour réaliser ce châle il vous faut:
 * une aiguille à laine
 
 {% include gallery-layout.html gallery=site.data.galleries.chale-wonder-woman %}
-lang: fr
 
 Je vous souhaite beaucoup de plaisir à réaliser ce châle et vous dit à bientôt pour de nouvelles réalisations.
 

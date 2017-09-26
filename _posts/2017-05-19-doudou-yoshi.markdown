@@ -24,7 +24,6 @@ Alors voici **Doudou-Yoshi**!
 Création réalisée ce jour, fil coton DMC Natura, crochet 2,5mm!
 
 {% include gallery-layout.html gallery=site.data.galleries.doudou-yoshi %}
-lang: fr
 
 ### Explications
 

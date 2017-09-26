@@ -24,6 +24,5 @@ Je vous invite à vous inscrire si vous souhaitez obtenir gratuitement les expli
 Réalisé avec une pelote coton/acrylique dégradée, ce châle "à trous-trous" tout léger est parfait pour réchauffer les tenues printanières!
 
 {% include gallery-layout.html gallery=site.data.galleries.chale-wave %}
-lang: fr
 
 Bon crochet!

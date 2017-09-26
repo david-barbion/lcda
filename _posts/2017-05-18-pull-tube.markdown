@@ -26,7 +26,6 @@ Les explications sont libres, ci-dessous.
 
 
 {% include gallery-layout.html gallery=site.data.galleries.pull-tube %}
-lang: fr
 
 ### Explications
 
