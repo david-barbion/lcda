@@ -4,6 +4,7 @@ title: Home
 slug: home
 paginate:
   permalink: /page/:num/
+lang: fr
 ---
 
 <div class="post-list">
@@ -19,11 +20,11 @@ paginate:
  "@type": "Blog",
  "name": "Le Crochet d'Argent",
  "description": "Créations et réalisations au tricot et crochet", 
- "keywords": "blog de tricot, loisirs créatifs, modèles, crochet, tricot, blog, crochetter, tricoter", 
+ "keywords": "blog de tricot, loisirs créatifs, modèles, crochet, tricot, blog, crocheter, tricoter", 
  "url": "https://www.lecrochetdargent.fr",
  "sameAs": [
      "https://twitter.com/crochetdargent",
-     "https://facebook.com/Le-crochet-dargent-456929781182767",
+     "https://facebook.com/crochetdargent",
      "https://framapiaf.org/@crochetdargent"
  ],
  "publisher": {
