@@ -15,7 +15,7 @@
 </title>
 
 <meta name="description" content="{% if page.meta_description %}{{ page.meta_description | strip_newlines | truncate: 160 }}{% else %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endif %}">
-<meta property="article:publisher" content="https://www.facebook.com/Le-crochet-dargent-456929781182767/" />
+<meta property="article:publisher" content="https://www.facebook.com/crochetdargent/" />
 
 <!-- flattr -->
 <meta name="flattr:id" content="32j95w">
@@ -73,13 +73,3 @@
 </script>
 {% endif %}
 
-{% if site.facebookapps_id %}
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.10&appId={{ site.facebookapps_id }}";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-{% endif %}

@@ -9,6 +9,18 @@ layout: compress
   </head>
 
   <body class="{{ page.slug }}">
+
+    {% if site.facebookapps_id %}
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.10&appId={{ site.facebookapps_id }}";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    {% endif %}  
+
     <main class="main">
       {% include header.html %}
       {{ content }}
