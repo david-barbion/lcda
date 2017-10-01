@@ -3,6 +3,7 @@ layout: page
 title: À propos
 permalink: /about/
 slug: about
+lang: fr
 ---
 Bienvenue sur Le Crochet d'Argent!
 
