@@ -3,7 +3,7 @@ layout: post
 lang: en
 title:  "Sweater Miss Manga"
 date:   2017-10-04 17:52:00
-categories: ['création', 'crochet']
+categories: ['creation', 'crochet']
 comments: true
 meta_description: "A turquoise blue crocheted sweater with mittens"
 asset_path: 'pull-miss-manga'

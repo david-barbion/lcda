@@ -3,7 +3,7 @@ layout: post
 lang: en
 title:  "Hermione's hat"
 date:   2017-09-23 07:59:00
-categories: ['tricot']
+categories: ['knit']
 comments: true
 meta_description: "A hat in Merino. Look alike Hermione in Harry Potter"
 asset_path: 'bonnet-hermione'
