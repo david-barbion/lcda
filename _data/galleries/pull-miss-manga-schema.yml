@@ -1,0 +1,8 @@
+picture_path: pull-miss-manga
+pictures:
+- filename: schema-bordure
+  original: schema-bordure-800x118.png
+  sizes:
+  - schema-bordure-160x24.png
+  - schema-bordure-480x71.png
+  thumbnail: schema-bordure-160x24.png

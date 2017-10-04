@@ -1,0 +1,23 @@
+picture_path: pull-miss-manga
+pictures:
+- filename: IMG_20171004_163136422-annotate
+  original: IMG_20171004_163136422-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171004_163136422-annotate-800x1067.jpg
+  - IMG_20171004_163136422-annotate-160x213.jpg
+  - IMG_20171004_163136422-annotate-480x640.jpg
+  thumbnail: IMG_20171004_163136422-annotate-160x213.jpg
+- filename: IMG_20171004_162744428-annotate
+  original: IMG_20171004_162744428-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171004_162744428-annotate-480x640.jpg
+  - IMG_20171004_162744428-annotate-800x1067.jpg
+  - IMG_20171004_162744428-annotate-160x213.jpg
+  thumbnail: IMG_20171004_162744428-annotate-160x213.jpg
+- filename: IMG_20171004_163205574-annotate
+  original: IMG_20171004_163205574-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171004_163205574-annotate-160x213.jpg
+  - IMG_20171004_163205574-annotate-800x1067.jpg
+  - IMG_20171004_163205574-annotate-480x640.jpg
+  thumbnail: IMG_20171004_163205574-annotate-160x213.jpg

@@ -1,0 +1,30 @@
+picture_path: pull-miss-manga
+pictures:
+- filename: IMG_20171004_163312427_HDR-annotate
+  original: IMG_20171004_163312427_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171004_163312427_HDR-annotate-160x213.jpg
+  - IMG_20171004_163312427_HDR-annotate-480x640.jpg
+  - IMG_20171004_163312427_HDR-annotate-800x1067.jpg
+  thumbnail: IMG_20171004_163312427_HDR-annotate-160x213.jpg
+- filename: IMG_20171004_162652575-annotate
+  original: IMG_20171004_162652575-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171004_162652575-annotate-800x1067.jpg
+  - IMG_20171004_162652575-annotate-160x213.jpg
+  - IMG_20171004_162652575-annotate-480x640.jpg
+  thumbnail: IMG_20171004_162652575-annotate-160x213.jpg
+- filename: IMG_20171004_163131306-annotate
+  original: IMG_20171004_163131306-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171004_163131306-annotate-160x213.jpg
+  - IMG_20171004_163131306-annotate-800x1067.jpg
+  - IMG_20171004_163131306-annotate-480x640.jpg
+  thumbnail: IMG_20171004_163131306-annotate-160x213.jpg
+- filename: IMG_20171004_162737731-annotate
+  original: IMG_20171004_162737731-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171004_162737731-annotate-160x213.jpg
+  - IMG_20171004_162737731-annotate-480x640.jpg
+  - IMG_20171004_162737731-annotate-800x1067.jpg
+  thumbnail: IMG_20171004_162737731-annotate-160x213.jpg
