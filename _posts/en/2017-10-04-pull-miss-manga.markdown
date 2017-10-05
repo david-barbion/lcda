@@ -5,7 +5,7 @@ title:  "Sweater Miss Manga"
 date:   2017-10-04 17:52:00
 categories: ['creation', 'crochet']
 comments: true
-meta_description: "A turquoise blue crocheted sweater with mittens"
+meta_description: "A turquoise blue crocheted sweater with mittens and free pattern"
 asset_path: 'pull-miss-manga'
 tags:
   - 'sweater'
@@ -13,6 +13,8 @@ tags:
   - 'mittens'
   - 'missmanga'
   - 'creation'
+  - 'tutorial'
+  - 'free'
 support:
   - jquery
   - gallery

@@ -5,7 +5,7 @@ title:  "Pull Miss Manga"
 date:   2017-10-04 17:52:00
 categories: ['création', 'crochet']
 comments: true
-meta_description: "Un pull au crochet bleu turquoise avec des mitaines"
+meta_description: "Un pull au crochet bleu turquoise avec des mitaines avec explications gratuites"
 asset_path: 'pull-miss-manga'
 tags:
   - 'pull'
@@ -13,6 +13,8 @@ tags:
   - 'mitaines'
   - 'missmanga'
   - 'création'
+  - 'tutoriel'
+  - 'gratuit'
 support:
   - jquery
   - gallery
