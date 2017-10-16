@@ -3,9 +3,7 @@
     <div><h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1></div>
     <div class="post-tags">
       <ul class="tags">
-      {% for cat in post.categories %}
-      <li><a href="{{ site.baseurl }}/categories/{{ cat | replace: 'é', 'e'  }}">{{ cat }}</a></li>
-      {% endfor %}
+        {% include categories.html %}
       </ul>
     </div>
     <span class="post-meta">

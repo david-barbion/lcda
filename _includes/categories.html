@@ -1,0 +1,17 @@
+{% for cat in post.categories %}
+  <li><a href="{{ site.baseurl }}/categories/{{ cat | replace: 'é', 'e'  }}">
+    {% case site.active_lang %}
+    {% when 'en' %}
+      {% case cat %}
+      {% when 'tricot' %}
+        knit
+      {% when 'création' %}
+        creation
+      {% else %}
+      {{ cat }}
+      {% endcase %}
+    {% else %}
+      {{ cat }}
+    {% endcase %}
+  </a></li>                                                                                   
+{% endfor %}
