@@ -7,11 +7,13 @@ comments: true
 meta_description: "Free tutorial of crochet summer shawl, summer in Sevilla"
 asset_path: 'summer-in-sevilla'
 tags:
-  - 'crochet'
   - 'shawl'
+  - 'crochet'
   - 'ice yarn'
   - 'summer'
   - 'sevilla'
+  - 'tutorial'
+  - 'free'
 support: [jquery, gallery]
 lang: en
 ---
