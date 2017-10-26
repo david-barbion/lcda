@@ -1,0 +1,41 @@
+picture_path: a-fall-in-love
+pictures:
+- filename: IMG_20171025_133848544_HDR-annotate
+  original: IMG_20171025_133848544_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171025_133848544_HDR-annotate-800x1067.jpg
+  - IMG_20171025_133848544_HDR-annotate-160x213.jpg
+  - IMG_20171025_133848544_HDR-annotate-480x640.jpg
+  thumbnail: IMG_20171025_133848544_HDR-annotate-160x213.jpg
+- filename: IMG_20171025_134011862_HDR-annotate
+  original: IMG_20171025_134011862_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171025_134011862_HDR-annotate-480x640.jpg
+  - IMG_20171025_134011862_HDR-annotate-800x1067.jpg
+  - IMG_20171025_134011862_HDR-annotate-160x213.jpg
+  thumbnail: IMG_20171025_134011862_HDR-annotate-160x213.jpg
+- filename: IMG_20171025_134026447-annotate
+  original: IMG_20171025_134026447-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171025_134026447-annotate-480x640.jpg
+  - IMG_20171025_134026447-annotate-800x1067.jpg
+  - IMG_20171025_134026447-annotate-160x213.jpg
+  thumbnail: IMG_20171025_134026447-annotate-160x213.jpg
+- filename: IMG_20171025_133707798_HDR-annotate
+  original: IMG_20171025_133707798_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171025_133707798_HDR-annotate-160x213.jpg
+  - IMG_20171025_133707798_HDR-annotate-800x1067.jpg
+  - IMG_20171025_133707798_HDR-annotate-480x640.jpg
+  thumbnail: IMG_20171025_133707798_HDR-annotate-160x213.jpg
+- filename: IMG_20171025_134204283_HDR-annotate
+  original: IMG_20171025_134204283_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171025_134204283_HDR-annotate-480x640.jpg
+  - IMG_20171025_134204283_HDR-annotate-160x213.jpg
+  - IMG_20171025_134204283_HDR-annotate-800x1067.jpg
+  thumbnail: IMG_20171025_134204283_HDR-annotate-160x213.jpg
+- filename: pelote
+  original: pelote-160x120.jpg
+  sizes: []
+  thumbnail: pelote-160x120.jpg
