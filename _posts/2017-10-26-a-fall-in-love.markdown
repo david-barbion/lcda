@@ -24,7 +24,7 @@ Sa forme spéciale « en cœur » vous permettra de le porter de plusieurs fa�
 Dimensions : 59cm de hauteur sur 124 cm d’envergure.
 
 Pour le réaliser, vous aurez besoin de:
-* 1 pelote [Mohair *Magic Glitz* coloris *Copper Gold Brown Camel Cream*](https://lespetitespelotesderosalie.boutiquedelaine.com/fnt2-50316),
+* 1 pelote Mohair *Magic Glitz* coloris *Copper Gold Brown Camel Cream*, chez [Les Petites Pelotes de Rosalie](https://lespetitespelotesderosalie.boutiquedelaine.com/fnt2-50316),
 * Des aiguilles circulaires N°4, avec câble de 80 cm au moins (pour pouvoir mettre toutes les mailles).
 
 Ce châle est construit en symétrie, autour un motif central formé de « 1jeté, 1m.end, 1jeté ».  

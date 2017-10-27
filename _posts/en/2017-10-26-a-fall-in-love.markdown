@@ -24,7 +24,7 @@ Its special "heart-shaped" shape will allow you to wear it in many different way
 Size : 59 cm height, 124 cm span.
 
 To make it you will need:
-* 1 skein of Mohair Magic Glittz colors Copper Gold Brown Camel Cream
+* 1 skein of Mohair Magic Glitz colors Copper Gold Brown Camel Cream, from [Les Petites Pelotes de Rosalie](https://lespetitespelotesderosalie.boutiquedelaine.com/fnt2-50316),
 * Circular needles with 80cm cable
 
 This shawl is knit as a symmetrical shawl, with a central pattern « yo, k1, yo ». 
