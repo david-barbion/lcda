@@ -25,7 +25,7 @@ Size : 59 cm height, 124 cm span.
 
 To make it you will need:
 * 1 skein of Mohair Magic Glitz colors Copper Gold Brown Camel Cream, from [Les Petites Pelotes de Rosalie](https://lespetitespelotesderosalie.boutiquedelaine.com/en/mohair-magic-glitz-gold-cream-copper-camel-brown),
-* Circular needles with 80cm cable
+* Circular needles with 80cm cable, US needle 6.
 
 This shawl is knit as a symmetrical shawl, with a central pattern « yo, k1, yo ». 
 Each row has 6 increments : 2 at the beginning of the row, 2 in the central pattern, 2 at the end of the row.
