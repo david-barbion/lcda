@@ -17,4 +17,5 @@ end
   gem 'sass', '~> 3.4.10'
   gem 'jekyll', '~> 3.5.1'
   gem 'jekyll-paginate'
+  gem 'html-proofer'
 #end
