@@ -1,0 +1,44 @@
+picture_path: pull-snowman
+pictures:
+- filename: IMG_20171111_121053196-annotate
+  original: IMG_20171111_121053196-annotate-1600x2844.jpg
+  sizes:
+  - IMG_20171111_121053196-annotate-160x284.jpg
+  - IMG_20171111_121053196-annotate-480x853.jpg
+  - IMG_20171111_121053196-annotate-800x1422.jpg
+  thumbnail: IMG_20171111_121053196-annotate-160x284.jpg
+- filename: IMG_20171111_121025198-annotate
+  original: IMG_20171111_121025198-annotate-1600x2844.jpg
+  sizes:
+  - IMG_20171111_121025198-annotate-800x1422.jpg
+  - IMG_20171111_121025198-annotate-480x853.jpg
+  - IMG_20171111_121025198-annotate-160x284.jpg
+  thumbnail: IMG_20171111_121025198-annotate-160x284.jpg
+- filename: IMG_20171111_121105068-annotate
+  original: IMG_20171111_121105068-annotate-1600x2844.jpg
+  sizes:
+  - IMG_20171111_121105068-annotate-160x284.jpg
+  - IMG_20171111_121105068-annotate-480x853.jpg
+  - IMG_20171111_121105068-annotate-800x1422.jpg
+  thumbnail: IMG_20171111_121105068-annotate-160x284.jpg
+- filename: IMG_20171111_121122757-annotate
+  original: IMG_20171111_121122757-annotate-1600x2844.jpg
+  sizes:
+  - IMG_20171111_121122757-annotate-800x1422.jpg
+  - IMG_20171111_121122757-annotate-160x284.jpg
+  - IMG_20171111_121122757-annotate-480x853.jpg
+  thumbnail: IMG_20171111_121122757-annotate-160x284.jpg
+- filename: IMG_20171111_121233215-annotate
+  original: IMG_20171111_121233215-annotate-1600x2844.jpg
+  sizes:
+  - IMG_20171111_121233215-annotate-800x1422.jpg
+  - IMG_20171111_121233215-annotate-480x853.jpg
+  - IMG_20171111_121233215-annotate-160x284.jpg
+  thumbnail: IMG_20171111_121233215-annotate-160x284.jpg
+- filename: IMG_20171111_121008316-annotate
+  original: IMG_20171111_121008316-annotate-1600x2844.jpg
+  sizes:
+  - IMG_20171111_121008316-annotate-800x1422.jpg
+  - IMG_20171111_121008316-annotate-480x853.jpg
+  - IMG_20171111_121008316-annotate-160x284.jpg
+  thumbnail: IMG_20171111_121008316-annotate-160x284.jpg
