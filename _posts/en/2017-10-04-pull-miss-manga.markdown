@@ -22,7 +22,7 @@ support:
 
 Good morning everyone !
 
-The first crochet sweater created by Le Crochet d'Argent: the **Miss Manga** sweater, named after the one who gave me for his request a well loaded specification including:
+The first crocheted sweater created by Le Crochet d'Argent: the sweater **Miss Manga**. This name comes from the girl who asked me to create it from a very detailed specification like:
 * short enough, 
 * adjusted in width, 
 * with long sleeves that can be worn in mittens
