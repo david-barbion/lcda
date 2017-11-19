@@ -62,7 +62,7 @@ Measurements of the sweater in size XS:
 ## Back
 
 Chain 70-77-84-91-98 + 1 chain to rotate.  
-SC 65-72-79-86-93, crochet sc5, slip1 and repeat until the end of the row. (It makes the first row loose and it prevents the work from being too tight.)
+SC 65-72-79-86-93, crochet sc5, slip1 and repeat until the end of the row. (It makes the first row loose and it prevents the work from being too tight.)  
 1 row of dc, 1 row of sc, for a total of 61-62-65-65-67-69 rows or 55-57-59-59-61-63cm of total height. Fasten off.
 
 ## Front
