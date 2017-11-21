@@ -8,4 +8,4 @@ slug: subscribe
 
 Soyez informé des nouveautés en indiquant votre email ci-dessous:
 
-{% include mailchimp.html %}
+{% include mailchimp-fr.html %}
