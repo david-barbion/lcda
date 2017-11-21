@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: fr
-title: Confirmation of subscription
+title: Abonnement confirmé
 permalink: /confirm/
 ---
 
