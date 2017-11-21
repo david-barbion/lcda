@@ -1,8 +1,8 @@
 ---
 layout: page
-lang: en
+lang: fr
 title: Confirmation of subscription
 permalink: /confirm/
 ---
 
-Thank you for your subscription. You will receive news by mail!
+Merci pour votre inscription. Vous recevrez des nouvelles bientôt!
