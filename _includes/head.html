@@ -5,7 +5,10 @@
 {% if site.facebookapps_id %}
 <meta property="fb:app_id" content="{{ site.facebookapps_id }}"/>
 {% endif %}
-<meta name="keywords" content="blog de tricot, loisirs créatifs, modèles, crochet, tricot, blog, crochetter, tricoter" />
+{% case site.active_lang %}
+{% when 'fr' %}<meta name="keywords" content="blog de tricot, loisirs créatifs, modèles, crochet, tricot, blog, crochetter, tricoter, modèles gratuits, tutoriel" />
+{% when 'en' %}<meta name="keywords" content="knitting blog, arts and crafs, patterns, crochet, knitting, blog, crocheting, knit, free pattends, tutorial" />
+{% endcase %}
 <title>
   {% if page.title == 'Home' %}
     {{ site.title }} &bull; {{ site.description }}
@@ -39,7 +42,7 @@
 {% endif %}
 
 <!-- i18n -->
-{% I18n_Headers %}
+{% I18n_Headers https://www.lecrochetdargent.fr %}
 
 <!-- favicon -->
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
