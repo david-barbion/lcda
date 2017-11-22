@@ -61,9 +61,15 @@ slug: single
 
     </aside>
 
+    {% case page.lang %}
+    {% when 'fr' %}{% include mailchimp-article-fr.html %}
+    {% when 'en' %}{% include mailchimp-article-en.html %}
+    {% endcase %}
+
     {% include related.html %}
 
     {% include comments.html %}
+
 
   </div>
 </article>
