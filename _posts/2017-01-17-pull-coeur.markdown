@@ -11,6 +11,7 @@ tags:
   - 'tricot'
   - 'pull'
   - 'coeur'
+  - 'BergèreDeFrance'
 support: [jquery, gallery]
 ---
 

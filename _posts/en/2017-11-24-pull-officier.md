@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: fr
+lang: en
 title:  "Officer sweater"
 date:   2017-11-23 19:21:00
 categories: ['tricot']

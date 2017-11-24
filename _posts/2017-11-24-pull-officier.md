@@ -5,14 +5,15 @@ title:  "Pull officier"
 date:   2017-11-24 14:54:00
 categories: ['tricot']
 comments: true
-meta_description: "Un pull officier taille 4 ans couleur marine avec boutons ancre"
+meta_description: 'Un pull officier taille 4 ans couleur marine avec boutons ancre, modèle Bergère de France'
 asset_path: 'pull-officier'
 tags:
   - 'pull'
   - 'tricot'
   - 'Tricot Kid 154'
   - 'officier'
-  - 'Bergère de France'
+  - 'BergèreDeFrance'
+  - 'sport'
 support:
   - jquery
   - gallery
