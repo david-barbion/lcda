@@ -1,0 +1,51 @@
+picture_path: pull-officier
+pictures:
+- filename: IMG_20171124_090857612-annotate
+  original: IMG_20171124_090857612-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171124_090857612-annotate-480x640.jpg
+  - IMG_20171124_090857612-annotate-160x213.jpg
+  - IMG_20171124_090857612-annotate-800x1067.jpg
+  thumbnail: IMG_20171124_090857612-annotate-160x213.jpg
+- filename: IMG_20171124_085838658-annotate
+  original: IMG_20171124_085838658-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171124_085838658-annotate-480x640.jpg
+  - IMG_20171124_085838658-annotate-800x1067.jpg
+  - IMG_20171124_085838658-annotate-160x213.jpg
+  thumbnail: IMG_20171124_085838658-annotate-160x213.jpg
+- filename: IMG_20171124_085824890-annotate
+  original: IMG_20171124_085824890-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171124_085824890-annotate-160x213.jpg
+  - IMG_20171124_085824890-annotate-800x1067.jpg
+  - IMG_20171124_085824890-annotate-480x640.jpg
+  thumbnail: IMG_20171124_085824890-annotate-160x213.jpg
+- filename: IMG_20171124_085906120-annotate
+  original: IMG_20171124_085906120-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171124_085906120-annotate-480x640.jpg
+  - IMG_20171124_085906120-annotate-160x213.jpg
+  - IMG_20171124_085906120-annotate-800x1067.jpg
+  thumbnail: IMG_20171124_085906120-annotate-160x213.jpg
+- filename: IMG_20171124_085804525-annotate
+  original: IMG_20171124_085804525-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171124_085804525-annotate-160x213.jpg
+  - IMG_20171124_085804525-annotate-480x640.jpg
+  - IMG_20171124_085804525-annotate-800x1067.jpg
+  thumbnail: IMG_20171124_085804525-annotate-160x213.jpg
+- filename: IMG_20171124_085916694-annotate
+  original: IMG_20171124_085916694-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171124_085916694-annotate-800x1067.jpg
+  - IMG_20171124_085916694-annotate-160x213.jpg
+  - IMG_20171124_085916694-annotate-480x640.jpg
+  thumbnail: IMG_20171124_085916694-annotate-160x213.jpg
+- filename: IMG_20171124_090845203_LL-annotate
+  original: IMG_20171124_090845203_LL-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171124_090845203_LL-annotate-800x1067.jpg
+  - IMG_20171124_090845203_LL-annotate-480x640.jpg
+  - IMG_20171124_090845203_LL-annotate-160x213.jpg
+  thumbnail: IMG_20171124_090845203_LL-annotate-160x213.jpg
