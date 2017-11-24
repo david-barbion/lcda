@@ -85,7 +85,7 @@ responsive_image:
   # [Optional, Default: false]
   # Rotate resized images depending on their EXIF rotation attribute. Useful for
   # working with JPGs directly from digital cameras and smartphones
-  auto_rotate: false
+  auto_rotate: true
 
   # [Optional, Default: assets]
   # The base directory where assets are stored. This is used to determine the
