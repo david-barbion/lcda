@@ -1,0 +1,9 @@
+picture_path: mitaines-dentelle
+pictures:
+- filename: IMG_20171117_224738694-annotate
+  original: IMG_20171117_224738694-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20171117_224738694-annotate-480x360.jpg
+  - IMG_20171117_224738694-annotate-800x600.jpg
+  - IMG_20171117_224738694-annotate-160x120.jpg
+  thumbnail: IMG_20171117_224738694-annotate-160x120.jpg

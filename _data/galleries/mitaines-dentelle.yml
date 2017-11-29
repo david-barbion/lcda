@@ -1,0 +1,37 @@
+picture_path: mitaines-dentelle
+pictures:
+- filename: IMG_20171129_144437845-annotate
+  original: IMG_20171129_144437845-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171129_144437845-annotate-160x213.jpg
+  - IMG_20171129_144437845-annotate-800x1067.jpg
+  - IMG_20171129_144437845-annotate-480x640.jpg
+  thumbnail: IMG_20171129_144437845-annotate-160x213.jpg
+- filename: IMG_20171129_143727591-annotate
+  original: IMG_20171129_143727591-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171129_143727591-annotate-800x1067.jpg
+  - IMG_20171129_143727591-annotate-160x213.jpg
+  - IMG_20171129_143727591-annotate-480x640.jpg
+  thumbnail: IMG_20171129_143727591-annotate-160x213.jpg
+- filename: IMG_20171129_143752506-annotate
+  original: IMG_20171129_143752506-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171129_143752506-annotate-800x1067.jpg
+  - IMG_20171129_143752506-annotate-160x213.jpg
+  - IMG_20171129_143752506-annotate-480x640.jpg
+  thumbnail: IMG_20171129_143752506-annotate-160x213.jpg
+- filename: featured
+  original: featured-1600x2133.jpg
+  sizes:
+  - featured-800x1067.jpg
+  - featured-160x213.jpg
+  - featured-480x640.jpg
+  thumbnail: featured-160x213.jpg
+- filename: IMG_20171129_143636552-annotate
+  original: IMG_20171129_143636552-annotate-1600x1200.jpg
+  sizes:
+  - IMG_20171129_143636552-annotate-160x120.jpg
+  - IMG_20171129_143636552-annotate-480x360.jpg
+  - IMG_20171129_143636552-annotate-800x600.jpg
+  thumbnail: IMG_20171129_143636552-annotate-160x120.jpg

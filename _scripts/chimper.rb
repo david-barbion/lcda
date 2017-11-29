@@ -29,9 +29,6 @@ class Chimper
       type: "regular",
       recipients: {
         list_id: args[:list_id],
-        segment_opts: {
-          saved_segment_id: args[:segment_id]
-        }
       },
       settings: {
         subject_line: args[:subject_line],
@@ -47,7 +44,7 @@ class Chimper
            "title": args[:title],
            "content": args[:message],
            "image_lnk": "<img alt=\"\" src=\"#{args[:featured_image_link]}\" class=\"mcnImage\" style=\"max-width:427px; padding-bottom: 0; display: inline !important; vertical-align: bottom;\" align=\"middle\" width=\"427\"/>",
-           "link_to_article": "<a class=\"mcnButton\" title=\"Aller à l'article\" href=\"#{args[:link]}\" target=\"_self\" style=\"font-weight:bold;letter-spacing:-.5px;line-height:100%;text-align:center;text-decoration:none;color:#FFFFFF;\">Aller à l'article</a>"
+           "link_to_article": "<a class=\"mcnButton\" title=\"Send me to the article\" href=\"#{args[:link]}\" target=\"_self\" style=\"font-weight:bold;letter-spacing:-.5px;line-height:100%;text-align:center;text-decoration:none;color:#FFFFFF;\">Send me to the article</a>"
         }
       }
     }
@@ -98,9 +95,6 @@ OptionParser.new do |opts|
   opts.on("-v", "--[no-]verbose", "Run verbosely") do |v|
     options[:verbose] = v
   end
-  opts.on("-S", "--segment segment_name", "Name of segment to restrict mail") do |s|
-    options[:segment] = s
-  end
   opts.on("-f", "--featured-image filename", "Featured image to display in mail") do |s|
     options[:featured_image] = s
   end
@@ -121,21 +115,17 @@ end.parse!
 chimper = Chimper.new(:from_name => 'Hélène de Le Crochet d\'Argent',
                       :reply_to  => 'contact@lecrochetdargent.fr')
 
+puts "image upload"
 upload = chimper.upload_image(options[:featured_image])
-##pp chimper.get_templates
-#exit
 
+puts "campaign creation"
 # get segment id from name
 chimper.get_lists.each do |list|
   options[:list_id] = list['id'] if list['name'] == options[:list]
-  chimper.get_segments_from_list(list['id']).each do |segment|
-    options[:segment_id] = segment['id'] if segment['name'] == options[:segment]
-  end
 end
 
 chimper.create_regular_campaign(:list_id             => options[:list_id],
                                 :subject_line        => options[:subject],
-                                :segment_id          => options[:segment_id],
                                 :title               => options[:title],
                                 :link                => options[:link],
                                 :template            => options[:template],
