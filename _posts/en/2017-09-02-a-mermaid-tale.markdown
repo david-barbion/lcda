@@ -2,7 +2,7 @@
 layout: post-en
 title:  "A mermaid tale"
 date:   2017-09-20 17:22:00
-categories: ['crochet']
+categories: ['crochet', 'création']
 comments: true
 meta_description: "Free tutorial of a crocheted shawl with Merino, A Mermaid Tale"
 asset_path: 'a-mermaid-tale'
