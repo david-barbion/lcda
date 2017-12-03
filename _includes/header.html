@@ -26,7 +26,7 @@
           <!--          <li><a href="{{ site.github }}" target="_blank">Github</a></li>-->
           {% for tongue in site.languages %}
             {% if tongue != site.active_lang %}
-          <li><a href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}"><img src="{{site.baseurl}}/assets/images/{{ tongue }}.png"/></a></li>
+          <li><a href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}}{% else %} {{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"><img src="{{site.baseurl}}/assets/images/{{ tongue }}.png"/></a></li>
             {% endif %}
           {% endfor %}
         </ul>

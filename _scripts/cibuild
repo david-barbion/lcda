@@ -2,4 +2,4 @@
 set -e # halt script on error
 #
 bundle exec jekyll build
-bundle exec htmlproofer --allow-hash-href --empty-alt-ignore ./_site
+bundle exec htmlproofer --allow-hash-href --empty-alt-ignore --disable-external --url-swap ' http:http',' /:/' --url-ignore '/bower_components/','/thumb4.jpg/' ./_site
