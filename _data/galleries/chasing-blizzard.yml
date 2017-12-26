@@ -1,0 +1,72 @@
+picture_path: chasing-blizzard
+pictures:
+- filename: IMG_20171226_194838888-annotate
+  original: IMG_20171226_194838888-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_194838888-annotate-480x640.jpg
+  - IMG_20171226_194838888-annotate-160x213.jpg
+  - IMG_20171226_194838888-annotate-800x1067.jpg
+  thumbnail: IMG_20171226_194838888-annotate-160x213.jpg
+- filename: IMG_20171226_141001461-annotate
+  original: IMG_20171226_141001461-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_141001461-annotate-160x213.jpg
+  - IMG_20171226_141001461-annotate-480x640.jpg
+  - IMG_20171226_141001461-annotate-800x1067.jpg
+  thumbnail: IMG_20171226_141001461-annotate-160x213.jpg
+- filename: IMG_20171226_140831620-annotate
+  original: IMG_20171226_140831620-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_140831620-annotate-160x213.jpg
+  - IMG_20171226_140831620-annotate-480x640.jpg
+  - IMG_20171226_140831620-annotate-800x1067.jpg
+  thumbnail: IMG_20171226_140831620-annotate-160x213.jpg
+- filename: IMG_20171226_194817884-annotate
+  original: IMG_20171226_194817884-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_194817884-annotate-480x640.jpg
+  - IMG_20171226_194817884-annotate-800x1067.jpg
+  - IMG_20171226_194817884-annotate-160x213.jpg
+  thumbnail: IMG_20171226_194817884-annotate-160x213.jpg
+- filename: IMG_20171226_140753621-annotate
+  original: IMG_20171226_140753621-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_140753621-annotate-160x213.jpg
+  - IMG_20171226_140753621-annotate-480x640.jpg
+  - IMG_20171226_140753621-annotate-800x1067.jpg
+  thumbnail: IMG_20171226_140753621-annotate-160x213.jpg
+- filename: IMG_20171226_141137643-annotate
+  original: IMG_20171226_141137643-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_141137643-annotate-480x640.jpg
+  - IMG_20171226_141137643-annotate-160x213.jpg
+  - IMG_20171226_141137643-annotate-800x1067.jpg
+  thumbnail: IMG_20171226_141137643-annotate-160x213.jpg
+- filename: IMG_20171226_194719745-annotate
+  original: IMG_20171226_194719745-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_194719745-annotate-480x640.jpg
+  - IMG_20171226_194719745-annotate-800x1067.jpg
+  - IMG_20171226_194719745-annotate-160x213.jpg
+  thumbnail: IMG_20171226_194719745-annotate-160x213.jpg
+- filename: IMG_20171226_140908457-annotate
+  original: IMG_20171226_140908457-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_140908457-annotate-480x640.jpg
+  - IMG_20171226_140908457-annotate-800x1067.jpg
+  - IMG_20171226_140908457-annotate-160x213.jpg
+  thumbnail: IMG_20171226_140908457-annotate-160x213.jpg
+- filename: IMG_20171226_140800213-annotate
+  original: IMG_20171226_140800213-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_140800213-annotate-800x1067.jpg
+  - IMG_20171226_140800213-annotate-480x640.jpg
+  - IMG_20171226_140800213-annotate-160x213.jpg
+  thumbnail: IMG_20171226_140800213-annotate-160x213.jpg
+- filename: IMG_20171226_194812177-annotate
+  original: IMG_20171226_194812177-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20171226_194812177-annotate-800x1067.jpg
+  - IMG_20171226_194812177-annotate-160x213.jpg
+  - IMG_20171226_194812177-annotate-480x640.jpg
+  thumbnail: IMG_20171226_194812177-annotate-160x213.jpg
