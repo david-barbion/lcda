@@ -112,7 +112,7 @@ OptionParser.new do |opts|
   end
 end.parse!
 
-chimper = Chimper.new(:from_name => 'Hélène de Le Crochet d\'Argent',
+chimper = Chimper.new(:from_name => 'Hélène from Le Crochet d\'Argent',
                       :reply_to  => 'contact@lecrochetdargent.fr')
 
 puts "image upload"
