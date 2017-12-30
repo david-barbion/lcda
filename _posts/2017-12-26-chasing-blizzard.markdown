@@ -2,7 +2,7 @@
 layout: post
 lang: fr
 title:  "Chasing Blizzard"
-date:   2017-12-26 18:40:00
+date:   2017-12-30 12:40:00
 categories: ['tricot']
 comments: true
 meta_description: "Une écharpe tricotée rayée unisexe en Merinos avec explications gratuites"
@@ -23,7 +23,9 @@ support:
 Bonjour à vous en cette période de fêtes!
 
 Je vous présente aujourd'hui **Chasing Blizzard**, une réalisation faite à la demande de mon mari et dans le cadre d'un KAL organisé sur [Mastodon](https://joinmastodon.org/), jeune réseau social décentralisé.  
-Cette superbe écharpe aux multiples rayures a été créée par Kati Gumenius. Vous pourrez trouver les [explications gratuites sur Ravelry](https://www.ravelry.com/patterns/library/chasing-blizzard).
+Cette superbe écharpe aux multiples rayures a été créée par Kati Gumenius. Vous pourrez trouver les [explications en VO gratuites sur Ravelry](https://www.ravelry.com/patterns/library/chasing-blizzard). 
+
+J'ai contacté Kati qui m'a aimablement autorisé à publier la [traduction française]({{ site.url }}/assets/pdf/Chasing%20Blizzard%20French.pdf) que je vous offre ici.
 
 Je l'ai réalisée aux aiguilles 3,5 mm, avec 2 écheveaux d'un superbe fil "socks" en Merino de Malabrigo, très agréable à tricoter, coloris "Polar Grey" et "Impressionist Blue".  
 Ce modèle, commencé le 1er décembre et très simple à réaliser pour tricoteuses confirmées, m'a occupé environ une quarantaine d'heures.
