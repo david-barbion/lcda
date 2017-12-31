@@ -3,3 +3,4 @@
 ./chimper.rb -l "Le Crochet d'Argent" -t "Châle Wonder Woman" -s "Nouvel article: le châle de Wonder Woman" -S "Français" -f ../assets/resized/chale-wonder-woman/featured-800x1067.jpg --template 'new-fr' --message-file snippet.html
 
 ./chimper-fr.rb -l "Newsletter de Le crochet d'argent" -t "Mitaines en dentelle" -s "Nouvel article: des mitaines en dentelle" -f ../assets/resized/mitaines-dentelle/featured-800x1067.jpg --template new-fr --message-file /tmp/mess --link https://www.lecrochetdargent.fr/en/mitaines-dentelle/
+./chimper-en.rb -l "Le crochet d'argent newsletter" -t "Chasing Blizzard" -s "New article: Chasing Blizzard scarf" -f ../assets/resized/chasing-blizzard/featured-800x1067.jpg --template new-en --message-file /tmp/mess --link https://www.lecrochetdargent.fr/en/chasing-blizzard/
