@@ -23,10 +23,11 @@
 <!-- flattr -->
 <meta name="flattr:id" content="32j95w">
 
-<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-<link rel="stylesheet" href="{{ "/css/mailchimp-slim-10_7.css" | prepend: site.baseurl }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.url }}">
+<link rel="stylesheet" href="{{ "/css/mailchimp-slim-10_7.css" | prepend: site.url }}">
+<link rel="stylesheet" href="{{ "/css/share-bar.css" | prepend: site.url }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url | prepend: site.url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url | prepend: site.url }}" />
 <script src="{{ "/bower_components/imager.js/Imager.js" | relative_url }}"></script>
 {% if page.support contains 'jquery' %}
 <script src="/bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>

@@ -2,13 +2,13 @@
   <nav class="pagination" role="pagination">
     <ul>
       {% if paginator.previous_page %}
-      <li><a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">&laquo;</a></li>
+      <li><a class="newer-posts" href="{{ site.url }}{{ paginator.previous_page_path }}">&laquo;</a></li>
       {% endif %}
 
       <li><span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}</span></li>
 
       {% if paginator.next_page %}
-      <li><a class="older-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">&raquo;</a></li>
+      <li><a class="older-posts" href="{{ site.url }}{{ paginator.next_page_path }}">&raquo;</a></li>
       {% endif %}
     </ul>
   </nav>

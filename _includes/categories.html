@@ -1,5 +1,5 @@
 {% for cat in post.categories %}
-  <li><a href="{{ site.baseurl }}/categories/{{ cat | replace: 'é', 'e'  }}">
+  <li><a href="{{ site.url }}/categories/{{ cat | replace: 'é', 'e'  }}">
     {% case site.active_lang %}
     {% when 'en' %}
       {% case cat %}
