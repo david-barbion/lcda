@@ -17,7 +17,7 @@ tags:
   - 'merino'
   - 'DROPS'
 support:
-  - jquerys
+  - jquery
   - gallery
 ---
 

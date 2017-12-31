@@ -1,0 +1,86 @@
+<div id="social-share-buttons-tab">
+  <button class="social-share-buttons-tab-toggle">
+      <i class="fa fa-arrow-right" title="" alt=""></i>
+  </button>
+  <div class="social-share-buttons-tab-container social-share-buttons-tab-container-hidden" style="display: block;">
+      <i class="fa fa-facebook" title="Facebook" alt="Facebook" onclick="do_facebook();" style="top:0px;"></i>
+      <i class="fa fa-twitter" title="Twitter" alt="Twitter" onclick="do_twitter();" style="top:40px;"></i>
+      <i class="fa fa-google-plus" title="Google+" alt="Google+" onclick="do_googleplus();" style="top:80px;"></i>
+      <i class="fa fa-pinterest-p" title="Pinterest" alt="Pinterest" onclick="do_pinterest();" style="top:120px;"></i>
+      <i class="fa fa-tumblr" title="Tumblr" alt="Tumblr" onclick="do_tumblr();" style="top:160px;"></i>
+      <i class="fa fa-envelope" title="Email" alt="Email" onclick="do_email();" style="top:200px;"></i>
+  </div>
+</div>
+<script>
+    jQuery(document).ready(function($) {
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 200) {
+                $('.social-share-buttons-tab-container').fadeIn(500);
+                $('.social-share-buttons-tab-toggle').children('.fa').removeClass('fa-arrow-right').addClass('fa-arrow-left');
+                $('.social-share-buttons-tab-toggle').next('.social-share-buttons-tab-container').removeClass('social-share-buttons-tab-container-hidden');
+            } else {
+                $('.social-share-buttons-tab-container').fadeOut(500);
+                $('.social-share-buttons-tab-toggle').children('.fa').removeClass('fa-arrow-left').addClass('fa-arrow-right');
+                $('.social-share-buttons-tab-toggle').next('.social-share-buttons-tab-container').addClass('social-share-buttons-tab-container-hidden');
+            }
+        });
+        $('.social-share-buttons-tab-toggle').click(function() {
+            $('.social-share-buttons-tab-container').fadeIn();
+            $(this).next('.social-share-buttons-tab-container').toggleClass('social-share-buttons-tab-container-hidden');
+            if ($(this).children('.fa').hasClass('fa-arrow-right')) {
+                $(this).children('.fa').removeClass('fa-arrow-right').addClass('fa-arrow-left');
+            } else {
+                $(this).children('.fa').removeClass('fa-arrow-left').addClass('fa-arrow-right');
+            }
+        });
+    });
+    function encode(string) {
+        string = encodeURIComponent(string);
+        string = string.replace("'",'%27');
+        return string;
+    }
+    function page_url() {
+        var string = encodeURIComponent( '{{ site.url }}{{ page.url }}' );
+        string = string.replace("'",'%27');
+        return string;
+    }
+
+    
+
+    function page_title() {
+        var string = encodeURIComponent( `{% if page.title == 'Home' %}{{ site.title }} &bull; {{ site.description }}{% else %}{{ page.title }}{% endif %}` );
+        string = string.replace(/[']/g, '’');
+        return string;
+    }
+    function popupCenter(url,width,height) {
+        var left = (screen.width/2)-(width/2);
+        var top = (screen.height/2)-(height/2);
+        var opts = 'WIDTH=' + width + ',HEIGHT=' + height + ',TOP=' + top + ',LEFT=' + left;
+        window.open(url,'_blank', opts);
+    }
+    function do_facebook() {
+        var url = 'https://www.facebook.com/sharer/sharer.php?u=' + page_url();
+        popupCenter(url,555,333);
+    }
+    function do_twitter() {
+        var url = 'https://twitter.com/intent/tweet?text=' + page_title() + '&url=' + page_url() + '&related=';
+        popupCenter(url,550,440);
+    }
+    function do_googleplus() {
+        var url = 'https://plus.google.com/share?url=' + page_url() + '&t=' + page_title();
+        popupCenter(url,400,500);
+    }
+    function do_pinterest() {
+        var url = 'https://pinterest.com/pin/create/button/?url=' + page_url();
+        popupCenter(url,800,800);
+    }
+    function do_tumblr() {
+        var url = 'https://www.tumblr.com/share/link?url=' + page_url();
+        popupCenter(url,400,500);
+    }
+    function do_email() {
+        var subject = 'Check out what I found...';
+        var options = '?subject=' + subject + '&body=' + page_title() + ' - ' + page_url();
+        window.location = 'mailto:' + options;
+    }
+</script>

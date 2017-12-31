@@ -5,7 +5,7 @@
     <div class="container">
 
       <h1 class="title">
-        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a href="{{ site.url }}/">{{ site.title }}</a>
         {% if page.paginate.category %} - {{ page.paginate.category }}{% endif %}
       </h1>
 
@@ -19,14 +19,14 @@
         <ul class="nav">
           {% for page in site.pages %}
             {% if page.slug and page.slug != 'home' %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            <li><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
           <!--<li><a href="{{ site.author.url }}/about" target="_blank">l'auteur</a></li> -->
           <!--          <li><a href="{{ site.github }}" target="_blank">Github</a></li>-->
           {% for tongue in site.languages %}
             {% if tongue != site.active_lang %}
-          <li><a href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}}{% else %} {{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"><img src="{{site.baseurl}}/assets/images/{{ tongue }}.png"/></a></li>
+          <li><a href="{% if tongue == site.default_lang %} {{site.url}}{{page.url}}{% else %} {{site.url}}/{{ tongue }}{{page.url}}{% endif %}"><img src="{{site.url}}/assets/images/{{ tongue }}.png"/></a></li>
             {% endif %}
           {% endfor %}
         </ul>
@@ -42,6 +42,10 @@
           Bienvenue sur <strong>{{ site.title }}</strong>!
         {% endcase %}
       </h2>
+    {% endif %}
+
+    {% if page.support contains 'jquery' %}
+    {% include share-bar.html %} 
     {% endif %}
 
   </div>

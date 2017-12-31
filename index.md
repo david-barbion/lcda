@@ -5,6 +5,8 @@ slug: home
 paginate:
   permalink: /page/:num/
 lang: fr
+support:
+  - jquery
 ---
 
 <div class="post-list">
