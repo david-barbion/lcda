@@ -293,7 +293,8 @@
 }
 
 .post-list {
-  padding-left: 42px; /* allow enough space for share bar */
+  padding-left: 15px; /* allow enough space for share bar */
+  padding-right: 15px; /* allow enough space for share bar */
   .post {
     margin-bottom: $spacing-unit;
     border-bottom: 1px solid $gray-color-light;
