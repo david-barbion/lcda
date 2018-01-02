@@ -7,4 +7,4 @@
 {% assign largest = resized | sort: 'width' | last %}
 {% assign smallest = resized | sort: 'width' | first %}
 
-{% if title %}{{title}}{% endif %}<img src="{{ site.url }}/{{ smallest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}"/>
+{% if title %}{{title}}{% endif %}<img src="{{ site.url }}/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}" sizes="(min-width: 36em) 33.3vw, 100vw"/>

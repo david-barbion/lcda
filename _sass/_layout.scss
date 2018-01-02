@@ -259,7 +259,7 @@
 
 .featured-post {
   img {
-    height: 400px;
+    max-height: 400px;
     margin-left: auto;
     margin-right: auto;
     box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
@@ -268,7 +268,7 @@
 
 .featured {
   img {
-    height: 100px;
+    max-height: 100px;
     margin-left: 0px;
     margin-right: 10px;
     box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
