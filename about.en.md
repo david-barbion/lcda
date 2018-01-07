@@ -18,6 +18,9 @@ This site uses the static site engine [jekyll](http://jekyllrb.com/) with follow
 * [jekyll-ideal-image-slider](https://github.com/jekylltools/jekyll-ideal-image-slider)
 * Theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
 
+and also
+* [Font Awesome](http://fontawesome.io) by Dave Gandy
+
 Happy browsing on my page!
 
 LN

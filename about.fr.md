@@ -17,6 +17,8 @@ Ce site utilise le moteur de site static [jekyll](http://jekyllrb.com/) avec les
 * [jekyll-ideal-image-slider](https://github.com/jekylltools/jekyll-ideal-image-slider)
 * Theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
 
+et aussi
+* [Font Awesome](http://fontawesome.io) par Dave Gandy
 
 Je vous souhaite une très bonne navigation sur ma page,
 
