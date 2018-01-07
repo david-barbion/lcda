@@ -19,7 +19,7 @@
     
           <a href="{{ site.url }}{{ post.url }}">
               <div class="rel">
-                  <h5>{{ post.title }}</h5>
+                <span><h5>{{ post.title }}</h5></span>
 
                      {% assign image_path = post.asset_path | prepend: 'assets/images/' | append: '/featured.jpg' %}
                      {% responsive_image_block %}

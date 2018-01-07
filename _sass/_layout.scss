@@ -492,7 +492,7 @@
 
 .rect {
   .rel {
-      width: 215px;
+      max-width: 215px;
       display: inline-block;
       padding: 5px;
       vertical-align: top;
@@ -517,6 +517,14 @@
         text-decoration: none;
       }
     }
+  h5 {
+    height: 32px;
+    margin: 0 0 0 0;
+  }
+  span {
+    display: inline-block;
+    vertical-align: bottom;
+  }
 }
 
 // gallery
