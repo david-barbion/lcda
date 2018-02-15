@@ -1,0 +1,65 @@
+picture_path: gilet-camille
+pictures:
+- filename: IMG_20180215_105518145-annotate
+  original: IMG_20180215_105518145-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_105518145-annotate-160x213.jpg
+  - IMG_20180215_105518145-annotate-800x1067.jpg
+  - IMG_20180215_105518145-annotate-480x640.jpg
+  thumbnail: IMG_20180215_105518145-annotate-160x213.jpg
+- filename: IMG_20180215_105441334-annotate
+  original: IMG_20180215_105441334-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_105441334-annotate-800x1067.jpg
+  - IMG_20180215_105441334-annotate-160x213.jpg
+  - IMG_20180215_105441334-annotate-480x640.jpg
+  thumbnail: IMG_20180215_105441334-annotate-160x213.jpg
+- filename: IMG_20180215_105605183-annotate
+  original: IMG_20180215_105605183-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_105605183-annotate-480x640.jpg
+  - IMG_20180215_105605183-annotate-800x1067.jpg
+  - IMG_20180215_105605183-annotate-160x213.jpg
+  thumbnail: IMG_20180215_105605183-annotate-160x213.jpg
+- filename: IMG_20180215_104930244_HDR-annotate
+  original: IMG_20180215_104930244_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_104930244_HDR-annotate-480x640.jpg
+  - IMG_20180215_104930244_HDR-annotate-800x1067.jpg
+  - IMG_20180215_104930244_HDR-annotate-160x213.jpg
+  thumbnail: IMG_20180215_104930244_HDR-annotate-160x213.jpg
+- filename: IMG_20180215_104825170-annotate
+  original: IMG_20180215_104825170-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_104825170-annotate-160x213.jpg
+  - IMG_20180215_104825170-annotate-480x640.jpg
+  - IMG_20180215_104825170-annotate-800x1067.jpg
+  thumbnail: IMG_20180215_104825170-annotate-160x213.jpg
+- filename: IMG_20180215_104158810-annotate
+  original: IMG_20180215_104158810-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_104158810-annotate-800x1067.jpg
+  - IMG_20180215_104158810-annotate-160x213.jpg
+  - IMG_20180215_104158810-annotate-480x640.jpg
+  thumbnail: IMG_20180215_104158810-annotate-160x213.jpg
+- filename: IMG_20180215_105347301-annotate
+  original: IMG_20180215_105347301-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_105347301-annotate-480x640.jpg
+  - IMG_20180215_105347301-annotate-160x213.jpg
+  - IMG_20180215_105347301-annotate-800x1067.jpg
+  thumbnail: IMG_20180215_105347301-annotate-160x213.jpg
+- filename: IMG_20180215_110531361-annotate
+  original: IMG_20180215_110531361-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_110531361-annotate-800x1067.jpg
+  - IMG_20180215_110531361-annotate-160x213.jpg
+  - IMG_20180215_110531361-annotate-480x640.jpg
+  thumbnail: IMG_20180215_110531361-annotate-160x213.jpg
+- filename: IMG_20180215_105510406_HDR-annotate
+  original: IMG_20180215_105510406_HDR-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180215_105510406_HDR-annotate-480x640.jpg
+  - IMG_20180215_105510406_HDR-annotate-800x1067.jpg
+  - IMG_20180215_105510406_HDR-annotate-160x213.jpg
+  thumbnail: IMG_20180215_105510406_HDR-annotate-160x213.jpg
