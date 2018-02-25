@@ -17,7 +17,7 @@ fi
 
 ######### 1 - get text #######################
 echo "1. get html page"
-curl -sL "$URL" |html2text >/tmp/article.$$
+curl -sL "$URL" |html2text -utf8 >/tmp/article.$$
 vim /tmp/article.$$
 
 ######### 2 - get article title ##############

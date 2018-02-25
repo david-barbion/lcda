@@ -1,0 +1,25 @@
+picture_path: white-bird
+pictures:
+- filename: 1-white-bird-start
+  original: 1-white-bird-start-800x404.png
+  sizes:
+  - 1-white-bird-start-480x242.png
+  - 1-white-bird-start-160x81.png
+  thumbnail: 1-white-bird-start-160x81.png
+  title: 'Start'
+- filename: 2-white-bird-mp
+  original: 2-white-bird-mp-1600x823.png
+  sizes:
+  - 2-white-bird-mp-480x247.png
+  - 2-white-bird-mp-160x82.png
+  - 2-white-bird-mp-800x411.png
+  thumbnail: 2-white-bird-mp-160x82.png 
+  title: 'Main pattern'
+- filename: 3-white-bird-edge
+  original: 3-white-bird-edge-1600x797.png
+  sizes:
+  - 3-white-bird-edge-160x80.png
+  - 3-white-bird-edge-480x239.png
+  - 3-white-bird-edge-800x399.png
+  thumbnail: 3-white-bird-edge-160x80.png
+  title: 'Edge'

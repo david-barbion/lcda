@@ -1,0 +1,58 @@
+picture_path: white-bird
+pictures:
+- filename: IMG_20180225_132359357-annotate
+  original: IMG_20180225_132359357-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_132359357-annotate-160x213.jpg
+  - IMG_20180225_132359357-annotate-800x1067.jpg
+  - IMG_20180225_132359357-annotate-480x640.jpg
+  thumbnail: IMG_20180225_132359357-annotate-160x213.jpg
+- filename: IMG_20180225_132522744-annotate
+  original: IMG_20180225_132522744-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_132522744-annotate-480x640.jpg
+  - IMG_20180225_132522744-annotate-160x213.jpg
+  - IMG_20180225_132522744-annotate-800x1067.jpg
+  thumbnail: IMG_20180225_132522744-annotate-160x213.jpg
+- filename: IMG_20180225_133229364-annotate
+  original: IMG_20180225_133229364-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_133229364-annotate-800x1067.jpg
+  - IMG_20180225_133229364-annotate-480x640.jpg
+  - IMG_20180225_133229364-annotate-160x213.jpg
+  thumbnail: IMG_20180225_133229364-annotate-160x213.jpg
+- filename: IMG_20180225_133408102-annotate
+  original: IMG_20180225_133408102-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_133408102-annotate-800x1067.jpg
+  - IMG_20180225_133408102-annotate-480x640.jpg
+  - IMG_20180225_133408102-annotate-160x213.jpg
+  thumbnail: IMG_20180225_133408102-annotate-160x213.jpg
+- filename: IMG_20180225_132843539-annotate
+  original: IMG_20180225_132843539-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_132843539-annotate-800x1067.jpg
+  - IMG_20180225_132843539-annotate-480x640.jpg
+  - IMG_20180225_132843539-annotate-160x213.jpg
+  thumbnail: IMG_20180225_132843539-annotate-160x213.jpg
+- filename: IMG_20180225_132412228-annotate
+  original: IMG_20180225_132412228-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_132412228-annotate-160x213.jpg
+  - IMG_20180225_132412228-annotate-480x640.jpg
+  - IMG_20180225_132412228-annotate-800x1067.jpg
+  thumbnail: IMG_20180225_132412228-annotate-160x213.jpg
+- filename: IMG_20180225_133137041-annotate
+  original: IMG_20180225_133137041-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_133137041-annotate-160x213.jpg
+  - IMG_20180225_133137041-annotate-480x640.jpg
+  - IMG_20180225_133137041-annotate-800x1067.jpg
+  thumbnail: IMG_20180225_133137041-annotate-160x213.jpg
+- filename: IMG_20180225_132314932-annotate
+  original: IMG_20180225_132314932-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180225_132314932-annotate-480x640.jpg
+  - IMG_20180225_132314932-annotate-800x1067.jpg
+  - IMG_20180225_132314932-annotate-160x213.jpg
+  thumbnail: IMG_20180225_132314932-annotate-160x213.jpg
