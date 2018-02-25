@@ -15,6 +15,7 @@ tags:
   - 'oversize'
   - 'creation'
   - 'Camille'
+  - 'gratuit'
 support:
   - jquery
   - gallery
