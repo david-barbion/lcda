@@ -28,7 +28,7 @@ Bien grand avec ses dimensions généreuses, il saura vous envelopper de chaleur
 Voici donc les explications:
 
 Vous aurez besoin de :
-* 3 pelotes de *Norsk Fine*
+* 3 pelotes de *Norsk Fine*, coloris blanc-cassé que vous pouvez trouver [chez Les Petites Pelotes de Rosalie](https://lespetitespelotesderosalie.boutiquedelaine.com/fnt2-51587)
 * Crochet 3,5mm
 
 Taille finale:

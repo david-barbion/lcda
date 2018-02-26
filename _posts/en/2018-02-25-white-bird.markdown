@@ -27,7 +27,7 @@ Very large with its generous dimensions, it will wrap you in warmth for a tea by
 Here is the free pattern:
 
 You will need:
-* 3 skein of Norsk Fine
+* 3 skein of Norsk Fine, white color, you can find at [Les Petites Pelotes de Rosalie](https://lespetitespelotesderosalie.boutiquedelaine.com/fnt2-51587)
 * E crochet
 
 Final size:
