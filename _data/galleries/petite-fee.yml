@@ -1,0 +1,37 @@
+picture_path: petite-fee
+pictures:
+- filename: IMG_20180303_123524391-annotate
+  original: IMG_20180303_123524391-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180303_123524391-annotate-480x640.jpg
+  - IMG_20180303_123524391-annotate-800x1067.jpg
+  - IMG_20180303_123524391-annotate-160x213.jpg
+  thumbnail: IMG_20180303_123524391-annotate-160x213.jpg
+- filename: IMG_20180303_123511006-annotate
+  original: IMG_20180303_123511006-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180303_123511006-annotate-480x640.jpg
+  - IMG_20180303_123511006-annotate-800x1067.jpg
+  - IMG_20180303_123511006-annotate-160x213.jpg
+  thumbnail: IMG_20180303_123511006-annotate-160x213.jpg
+- filename: IMG_20180303_123519714-annotate
+  original: IMG_20180303_123519714-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180303_123519714-annotate-480x640.jpg
+  - IMG_20180303_123519714-annotate-160x213.jpg
+  - IMG_20180303_123519714-annotate-800x1067.jpg
+  thumbnail: IMG_20180303_123519714-annotate-160x213.jpg
+- filename: IMG_20180303_123512466-annotate
+  original: IMG_20180303_123512466-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180303_123512466-annotate-800x1067.jpg
+  - IMG_20180303_123512466-annotate-160x213.jpg
+  - IMG_20180303_123512466-annotate-480x640.jpg
+  thumbnail: IMG_20180303_123512466-annotate-160x213.jpg
+- filename: IMG_20180303_123501676-annotate
+  original: IMG_20180303_123501676-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180303_123501676-annotate-160x213.jpg
+  - IMG_20180303_123501676-annotate-480x640.jpg
+  - IMG_20180303_123501676-annotate-800x1067.jpg
+  thumbnail: IMG_20180303_123501676-annotate-160x213.jpg
