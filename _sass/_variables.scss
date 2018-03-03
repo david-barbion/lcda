@@ -1,8 +1,59 @@
+// fonts
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(/assets/fonts/lato-italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(/assets/fonts/lato-light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(/assets/fonts/lato-regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(/assets/fonts/lato-bold.ttf) format('truetype');
+}
 
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lora Italic'), local('Lora-Italic'), url(/assets/fonts/lora-italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lora Bold Italic'), local('Lora-BoldItalic'), url(/assets/fonts/lora-bolditalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lora Regular'), local('Lora-Regular'), url(/assets/fonts/lora-regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lora Bold'), local('Lora-Bold'), url(/assets/fonts/lora-bold.ttf) format('truetype');
+}
+
+@import url("/css/fork-awesome.min.css");
 // Google fonts api
-@import url("//fonts.googleapis.com/css?family=Lato:400,300,400italic,700");
-@import url("//fonts.googleapis.com/css?family=Lora:400,400italic,700italic,700");
-@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+//@import url("//fonts.googleapis.com/css?family=Lato:400,300,400italic,700");
+//@import url("//fonts.googleapis.com/css?family=Lora:400,400italic,700italic,700");
+//@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 
 // Our variables
 $font-family-base  : "Lato", Helvetica, Arial, sans-serif !default;

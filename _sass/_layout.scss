@@ -316,10 +316,6 @@
   @extend %clearfix;
   margin-bottom: 15px;
 
-  li:first-child {
-    margin-right: 5px;
-  }
-
   ul {
     margin: 0;
     padding: 0;
@@ -328,7 +324,7 @@
   li {
     display: inline-block;
     text-align: center;
-    margin-right: 0;
+    margin-right: 5px;
 
     a {
       font-size: 30px;
@@ -365,19 +361,10 @@
     background-color: #00ABEC;
     color: #fff;
   }
-  a:hover i.fa-mastodon {
+  a:hover i.fa-mastodon-alt {
     background-color: #00ABEC;
     color: #fff;
   }
-  .fa-mastodon::before { // to be replaced by awesome glyph
-    background-image: url('/assets/images/Mastodon_logo.svg');
-    background-size: 18px 18px;
-    display: inline-block;
-    width: 18px; 
-    height: 18px;
-    content:"";
-  }
-  
 }
 
 // Pagination
