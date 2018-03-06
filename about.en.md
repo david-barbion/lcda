@@ -19,7 +19,7 @@ This site uses the static site engine [jekyll](http://jekyllrb.com/) with follow
 * Theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
 
 and also
-* [Font Awesome](http://fontawesome.io) by Dave Gandy
+* [Fork Awesome](https://forkawesome.github.io/Fork-Awesome/) by Dave Gandy et al.
 
 Happy browsing on my page!
 
