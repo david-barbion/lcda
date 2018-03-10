@@ -24,7 +24,7 @@ Here is « Summer in Sevilla », the new summer shawl created by _Le Crochet d
 
 This shawl was made with a 3.5mm crochet hook (E) and a « cake » cotton/acrylic with a gradient color, here orange/red by Ice Yarn.
 
-The finished size is 65x120cm.  
+The finished size is 65 x 120cm (about 26in x 47in).  
 This pattern uses US terminology.
 
 This shawl is composed of 4 parts :
