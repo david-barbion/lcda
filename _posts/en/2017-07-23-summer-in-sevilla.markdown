@@ -1,5 +1,6 @@
 ---
-layout: post-en
+layout: post
+lang: en
 title:  "Summer in Sevilla"
 date:   2017-07-26 16:46:00
 categories: ['crochet','création']
@@ -15,7 +16,6 @@ tags:
   - 'tutorial'
   - 'free'
 support: [jquery, gallery]
-lang: en
 ---
 
 Hello!
@@ -29,9 +29,9 @@ This pattern uses US terminology.
 
 This shawl is composed of 4 parts :
 * First part of Double Crochet (rows 1 to 9)
-* motif 1 repeated 3 times, separated by 2 rows of Double Crochet
-* motif 2, 2 rows x 4 times
-* the edge, of 2 rows
+* pattern 1 repeated 3 times, separated by 2 rows of Double Crochet
+* pattern 2, 2 rows x 4 times
+* the edge, 2 rows
 
 You'll find a download link at the end of this page, in PDF.
 
