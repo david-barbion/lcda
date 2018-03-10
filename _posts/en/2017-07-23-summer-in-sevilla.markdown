@@ -65,7 +65,7 @@ You'll find a download link at the end of this page, in PDF.
 
 Begin each row by ch4 and end it by 1 trb will preserve the flexibility of the shawl.  
 Take care to work symmetrically.  
-The 2-rows composing motif 2 are repeated for 4 times here, but you can repeat them as long as you have yarn (only keep enough yarn for the edge).
+The 2-rows composing pattern 2 are repeated for 4 times here, but you can repeat them as long as you have yarn (only keep enough yarn for the edge).
 
 ## Pattern
 
