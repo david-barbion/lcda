@@ -1,0 +1,30 @@
+picture_path: pull-harry-potter
+pictures:
+- filename: IMG_20180324_185307886-annotate
+  original: IMG_20180324_185307886-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180324_185307886-annotate-800x1067.jpg
+  - IMG_20180324_185307886-annotate-160x213.jpg
+  - IMG_20180324_185307886-annotate-480x640.jpg
+  thumbnail: IMG_20180324_185307886-annotate-160x213.jpg
+- filename: IMG_20180324_185255832-annotate
+  original: IMG_20180324_185255832-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180324_185255832-annotate-800x1067.jpg
+  - IMG_20180324_185255832-annotate-160x213.jpg
+  - IMG_20180324_185255832-annotate-480x640.jpg
+  thumbnail: IMG_20180324_185255832-annotate-160x213.jpg
+- filename: IMG_20180324_185304093-annotate
+  original: IMG_20180324_185304093-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180324_185304093-annotate-800x1067.jpg
+  - IMG_20180324_185304093-annotate-160x213.jpg
+  - IMG_20180324_185304093-annotate-480x640.jpg
+  thumbnail: IMG_20180324_185304093-annotate-160x213.jpg
+- filename: IMG_20180324_185257494-annotate
+  original: IMG_20180324_185257494-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180324_185257494-annotate-160x213.jpg
+  - IMG_20180324_185257494-annotate-800x1067.jpg
+  - IMG_20180324_185257494-annotate-480x640.jpg
+  thumbnail: IMG_20180324_185257494-annotate-160x213.jpg
