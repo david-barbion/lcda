@@ -3,7 +3,7 @@ layout: post
 lang: en
 title:  "Hogwart sleeveless sweater"
 date:   2018-03-26 18:00:00
-categories: ['création', 'creation']
+categories: ['tricot', 'création']
 comments: true
 meta_description: "A sleeveless sweater to get back to Hogwarts, with free pattern"
 asset_path: 'pull-harry-potter'
