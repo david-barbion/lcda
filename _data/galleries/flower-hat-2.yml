@@ -1,0 +1,30 @@
+picture_path: flower-hat
+pictures:
+- filename: IMG_20180508_173743-annotate
+  original: IMG_20180508_173743-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180508_173743-annotate-800x1067.jpg
+  - IMG_20180508_173743-annotate-480x640.jpg
+  - IMG_20180508_173743-annotate-160x213.jpg
+  thumbnail: IMG_20180508_173743-annotate-160x213.jpg
+- filename: IMG_20180508_173456-annotate
+  original: IMG_20180508_173456-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180508_173456-annotate-800x1067.jpg
+  - IMG_20180508_173456-annotate-160x213.jpg
+  - IMG_20180508_173456-annotate-480x640.jpg
+  thumbnail: IMG_20180508_173456-annotate-160x213.jpg
+- filename: IMG_20180508_173521-annotate
+  original: IMG_20180508_173521-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180508_173521-annotate-480x640.jpg
+  - IMG_20180508_173521-annotate-160x213.jpg
+  - IMG_20180508_173521-annotate-800x1067.jpg
+  thumbnail: IMG_20180508_173521-annotate-160x213.jpg
+- filename: IMG_20180508_173633-annotate
+  original: IMG_20180508_173633-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180508_173633-annotate-480x640.jpg
+  - IMG_20180508_173633-annotate-800x1067.jpg
+  - IMG_20180508_173633-annotate-160x213.jpg
+  thumbnail: IMG_20180508_173633-annotate-160x213.jpg

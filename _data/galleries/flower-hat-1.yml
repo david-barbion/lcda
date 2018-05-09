@@ -1,0 +1,9 @@
+picture_path: flower-hat
+pictures:
+- filename: IMG_20180509_193616799
+  original: IMG_20180509_193616799-1600x1200.jpg
+  sizes:
+  - IMG_20180509_193616799-480x360.jpg
+  - IMG_20180509_193616799-800x600.jpg
+  - IMG_20180509_193616799-160x120.jpg
+  thumbnail: IMG_20180509_193616799-160x120.jpg
