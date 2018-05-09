@@ -25,7 +25,7 @@ Hello everybody,
  
 Spring is here, summer comes slowly: it's time to crochet a beautiful sun hat!  
 I offer you today the pattern of a sun hat, created specially for my daughter.  
-She wishes a light hat, white color with a blue stripe, and a daisy, a poppy and a leaf to decorate (it's accurate, and I love it!)  
+She wishes a light hat, white color with a blue stripe, and a daisy, a poppy and a leaf to decorate (it's accurate, and I love it!):
 
 {% include gallery-layout.html gallery=site.data.galleries.flower-hat-1 id_number=1 %}
 

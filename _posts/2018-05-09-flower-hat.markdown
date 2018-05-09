@@ -26,7 +26,7 @@ Bonjour à tous et toutes,
 Retour des créations après une petite pause bien méritée!  
 Le printemps est installé, l'été approche tout doucement: il est temps de penser à se protéger joliment du soleil!  
 Je vous offre aujourd'hui les explications d'un modèle de chapeau que j'ai créé spécialement pour ma deuxième.  
-Ses souhaits étaient un chapeau léger, en colori écru avec une bande bleue-menthe, une marguerite et un coquelicot avec une feuille en décoration (c'est très précis, et j'adore!)  
+Ses souhaits étaient un chapeau léger, en colori écru avec une bande bleue-menthe, une marguerite et un coquelicot avec une feuille en décoration (c'est très précis, et j'adore!):
 
 {% include gallery-layout.html gallery=site.data.galleries.flower-hat-1 id_number=1 %}
 
