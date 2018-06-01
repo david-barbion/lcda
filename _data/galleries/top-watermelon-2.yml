@@ -1,12 +1,5 @@
 picture_path: top-watermelon
 pictures:
-- filename: IMG_20180529_103550
-  original: IMG_20180529_103550-1600x1200.jpg
-  sizes:
-  - IMG_20180529_103550-480x360.jpg
-  - IMG_20180529_103550-800x600.jpg
-  - IMG_20180529_103550-160x120.jpg
-  thumbnail: IMG_20180529_103550-160x120.jpg
 - filename: IMG_20180529_103523
   original: IMG_20180529_103523-1600x2133.jpg
   sizes:

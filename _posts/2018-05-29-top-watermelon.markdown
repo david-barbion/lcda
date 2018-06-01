@@ -48,6 +48,9 @@ Monter 92m aiguilles 3,5mm avec le colori turquoise,
 tricoter 4 rangs, puis, au rang 5, "vriller" le tricot toutes les 4 mailles voir tutoriel [ici](https://www.facebook.com/huuubakbi/videos/874320966001583/?hc_ref=ARQ0FAo7OLQlrTHdaRPcG7BCdpfIf39Msphyu_fax4MKRoeQMUUpvKlSeGKviF6aFEA).  
 Continuer en turquoise pendant 19 rangs.  
 Tricoter le jacquard "vagues" et passer au coloris "poussin".  
+
+{% include gallery-layout.html gallery=site.data.galleries.top-watermelon-3 id_number=3 %}
+
 Continuer en "poussin" et tricoter encore 90 rangs.  
 Rabattre souplement.
 
