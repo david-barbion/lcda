@@ -4,7 +4,7 @@ source 'http://rubygems.org'
 
 group :jekyll_plugins do
      gem "jekyll-feed", "~> 0.6"
-     gem "jekyll-responsive-image", "~> 1.4.0"
+     gem "jekyll-responsive-image", "~> 1.5.0"
      gem "jekyll-figure"
      gem "jekyll-sitemap"
      gem "octopress-paginate", :git => 'https://github.com/egeis/paginate'
