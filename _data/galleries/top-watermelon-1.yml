@@ -1,0 +1,23 @@
+picture_path: top-watermelon
+pictures:
+- filename: IMG_20180522_114905-annotate
+  original: IMG_20180522_114905-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180522_114905-annotate-480x640.jpg
+  - IMG_20180522_114905-annotate-160x213.jpg
+  - IMG_20180522_114905-annotate-800x1067.jpg
+  thumbnail: IMG_20180522_114905-annotate-160x213.jpg
+- filename: IMG_20180522_114845-annotate
+  original: IMG_20180522_114845-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180522_114845-annotate-800x1067.jpg
+  - IMG_20180522_114845-annotate-160x213.jpg
+  - IMG_20180522_114845-annotate-480x640.jpg
+  thumbnail: IMG_20180522_114845-annotate-160x213.jpg
+- filename: IMG_20180522_114835-annotate
+  original: IMG_20180522_114835-annotate-1600x2133.jpg
+  sizes:
+  - IMG_20180522_114835-annotate-800x1067.jpg
+  - IMG_20180522_114835-annotate-160x213.jpg
+  - IMG_20180522_114835-annotate-480x640.jpg
+  thumbnail: IMG_20180522_114835-annotate-160x213.jpg
